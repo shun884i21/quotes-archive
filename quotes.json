@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-06-27T00:00:00+09:00",
-  "seed": true,
+  "updatedAt": "2026-06-27T18:24:34+09:00",
   "quotes": [
+    {
+      "id": "davinci-obstacles",
+      "text": "障害が私を屈服させることはない。あらゆる障害は固い決意の前に屈する。",
+      "original": "Obstacles cannot crush me; every obstacle yields to stern resolve.",
+      "author": "レオナルド・ダ・ヴィンチ",
+      "authorBio": "ルネサンス期イタリアの芸術家・科学者。『モナ・リザ』『最後の晩餐』を描く一方、解剖学や飛行機械の研究にも没頭した万能の天才。",
+      "background": "手稿に残された言葉。芸術から科学まで未知の領域に挑み続けた彼の、困難を意志で乗り越える姿勢を表す。",
+      "source": "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+      "uncertain": false,
+      "tags": [
+        "挑戦",
+        "意志",
+        "逆境"
+      ],
+      "addedAt": "2026-06-27",
+      "featuredDate": "2026-06-27"
+    },
     {
       "id": "jobs-stay-hungry",
       "text": "ハングリーであれ。愚か者であれ。",
@@ -11,7 +27,11 @@
       "background": "2005年、スタンフォード大学の卒業式での伝説的なスピーチの結びの言葉。ジョブズが若い頃に愛読した雑誌『Whole Earth Catalog』最終号の裏表紙にあったフレーズを引用したもので、現状に満足せず学び続けよ、というメッセージ。",
       "source": "https://news.stanford.edu/2005/06/12/youve-got-to-find-what-you-love-jobs-says/",
       "uncertain": false,
-      "tags": ["挑戦", "成長", "仕事"],
+      "tags": [
+        "挑戦",
+        "成長",
+        "仕事"
+      ],
       "addedAt": "2026-06-27"
     },
     {
@@ -23,7 +43,11 @@
       "background": "1900年代初頭、記者へのインタビューで語ったとされる言葉。ひらめきの天才だと評されることへの反論として、成功は地道な努力の積み重ねであることを強調した。",
       "source": "https://en.wikiquote.org/wiki/Thomas_Edison",
       "uncertain": false,
-      "tags": ["努力", "成功", "挑戦"],
+      "tags": [
+        "努力",
+        "成功",
+        "挑戦"
+      ],
       "addedAt": "2026-06-27"
     },
     {
@@ -35,7 +59,11 @@
       "background": "龍馬が好んで詠んだとされる歌。周囲の評価や批判に振り回されず、自分の信じる道を進むという彼の生き方を象徴する。",
       "source": "https://ja.wikiquote.org/wiki/坂本龍馬",
       "uncertain": true,
-      "tags": ["信念", "勇気", "人生"]
+      "tags": [
+        "信念",
+        "勇気",
+        "人生"
+      ]
     },
     {
       "id": "mandela-fall",
@@ -46,7 +74,11 @@
       "background": "自伝『自由への長い道』などで語られた、苦難からの再起を説く言葉。長い獄中生活の末に国を率いた彼の人生そのものを映している。なお、この一節は思想家の影響を受けた表現とも言われる。",
       "source": "https://en.wikiquote.org/wiki/Nelson_Mandela",
       "uncertain": true,
-      "tags": ["逆境", "再起", "勇気"]
+      "tags": [
+        "逆境",
+        "再起",
+        "勇気"
+      ]
     },
     {
       "id": "einstein-value",
@@ -57,7 +89,11 @@
       "background": "1955年の雑誌『LIFE』に掲載された、友人ウィリアム・ミラーによる回想で紹介された言葉。富や名声より、人としての中身を重視せよという価値観を表す。",
       "source": "https://en.wikiquote.org/wiki/Albert_Einstein",
       "uncertain": false,
-      "tags": ["人生", "価値観", "成功"]
+      "tags": [
+        "人生",
+        "価値観",
+        "成功"
+      ]
     },
     {
       "id": "gandhi-change",
@@ -68,7 +104,11 @@
       "background": "ガンディーの思想を凝縮した言葉として広く知られるが、本人の文書には正確な形では見つかっておらず、後年に要約・意訳された表現とされる。それでも彼の生き方の核心を表すとして世界中で引用される。",
       "source": "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
       "uncertain": true,
-      "tags": ["変化", "信念", "行動"]
+      "tags": [
+        "変化",
+        "信念",
+        "行動"
+      ]
     },
     {
       "id": "fukuzawa-heaven",
@@ -79,7 +119,11 @@
       "background": "1872年刊行の『学問のすゝめ』冒頭の一節。人は生まれながらに平等であり、その後の差は学問の有無によって生じる、という主張へと続く。",
       "source": "https://ja.wikiquote.org/wiki/福澤諭吉",
       "uncertain": false,
-      "tags": ["学び", "平等", "人生"]
+      "tags": [
+        "学び",
+        "平等",
+        "人生"
+      ]
     },
     {
       "id": "lincoln-future",
@@ -90,7 +134,11 @@
       "background": "リンカーンの名言として広く流布しているが、実際の出典は確認されておらず、後世の自己啓発の文脈で彼に帰されたものとされる。能動的に未来を切り拓く姿勢を説く言葉として親しまれている。",
       "source": "https://en.wikiquote.org/wiki/Abraham_Lincoln",
       "uncertain": true,
-      "tags": ["未来", "行動", "挑戦"]
+      "tags": [
+        "未来",
+        "行動",
+        "挑戦"
+      ]
     },
     {
       "id": "helen-keller-adventure",
@@ -101,7 +149,11 @@
       "background": "1940年の著書『The Open Door』に収められた言葉。困難を抱えながらも世界を旅し講演を続けた彼女が、安全に閉じこもるより挑戦する人生を選ぶ姿勢を表している。",
       "source": "https://en.wikiquote.org/wiki/Helen_Keller",
       "uncertain": false,
-      "tags": ["勇気", "挑戦", "人生"]
+      "tags": [
+        "勇気",
+        "挑戦",
+        "人生"
+      ]
     },
     {
       "id": "matsushita-rain",
@@ -112,7 +164,11 @@
       "background": "事業がうまくいく秘訣を問われた際に語ったとされる言葉。成功とは特別な才覚ではなく、当然なすべきことを着実に実行することだという、彼の実践的な経営哲学を示している。",
       "source": "https://ja.wikiquote.org/wiki/松下幸之助",
       "uncertain": true,
-      "tags": ["仕事", "継続", "成功"]
+      "tags": [
+        "仕事",
+        "継続",
+        "成功"
+      ]
     },
     {
       "id": "confucius-stop",
@@ -123,7 +179,11 @@
       "background": "孔子の言葉として世界的に引用されるが、『論語』に同一の文は見当たらず、英語圏で広まった意訳とされる。歩みが遅くとも止めなければ前進し続けられる、という継続の大切さを伝える。",
       "source": "https://en.wikiquote.org/wiki/Confucius",
       "uncertain": true,
-      "tags": ["継続", "努力", "人生"]
+      "tags": [
+        "継続",
+        "努力",
+        "人生"
+      ]
     },
     {
       "id": "nightingale-own-opinion",
@@ -134,7 +194,11 @@
       "background": "言い訳をせず、させもしなかったことが成功の理由だと語った言葉。困難な戦地の医療現場で、現状を嘆くより自ら行動で変えていった彼女の姿勢を表す。",
       "source": "https://en.wikiquote.org/wiki/Florence_Nightingale",
       "uncertain": false,
-      "tags": ["責任", "行動", "仕事"]
+      "tags": [
+        "責任",
+        "行動",
+        "仕事"
+      ]
     },
     {
       "id": "darwin-responsive",
@@ -145,7 +209,11 @@
       "background": "ビジネス書などで頻繁に引用されるが、ダーウィン自身の著作にこの一文はなく、1960年代に経営学者が彼の進化論を要約した言葉とされる。変化への適応こそが生存の鍵であるというメッセージとして広まった。",
       "source": "https://en.wikiquote.org/wiki/Charles_Darwin",
       "uncertain": true,
-      "tags": ["変化", "適応", "成長"]
+      "tags": [
+        "変化",
+        "適応",
+        "成長"
+      ]
     },
     {
       "id": "hepburn-impossible",
@@ -156,7 +224,11 @@
       "background": "前向きな姿勢を象徴する言葉として広く知られる。本人の発言かは確証がないとされるが、戦争の困難な少女時代を乗り越え、後半生を奉仕に捧げた彼女の生き方とよく重なる。",
       "source": "https://en.wikiquote.org/wiki/Audrey_Hepburn",
       "uncertain": true,
-      "tags": ["挑戦", "前向き", "勇気"]
+      "tags": [
+        "挑戦",
+        "前向き",
+        "勇気"
+      ]
     },
     {
       "id": "uesugi-yareba",
@@ -167,7 +239,11 @@
       "background": "鷹山が次の藩主へ家督を譲る際に贈ったとされる歌。やろうとすれば成し遂げられる、できないのはやらないからだ、という強い実行の精神を説く。",
       "source": "https://ja.wikiquote.org/wiki/上杉鷹山",
       "uncertain": false,
-      "tags": ["行動", "信念", "努力"]
+      "tags": [
+        "行動",
+        "信念",
+        "努力"
+      ]
     },
     {
       "id": "disney-begin",
@@ -178,7 +254,11 @@
       "background": "幾度もの失敗や倒産を経験しながら理想を追い続けたディズニーらしい言葉。計画や議論を重ねるより、まず一歩を踏み出すことの大切さを説く。",
       "source": "https://en.wikiquote.org/wiki/Walt_Disney",
       "uncertain": false,
-      "tags": ["行動", "挑戦", "仕事"]
+      "tags": [
+        "行動",
+        "挑戦",
+        "仕事"
+      ]
     },
     {
       "id": "curie-understand",
@@ -189,7 +269,11 @@
       "background": "未知のものへの恐れは理解によって乗り越えられる、という科学者らしい信念を表した言葉。当時、女性が研究の世界で活躍することへの偏見と闘いながら、彼女は学問を貫いた。",
       "source": "https://en.wikiquote.org/wiki/Marie_Curie",
       "uncertain": false,
-      "tags": ["学び", "勇気", "挑戦"]
+      "tags": [
+        "学び",
+        "勇気",
+        "挑戦"
+      ]
     },
     {
       "id": "yoshida-shoin-volition",
@@ -200,7 +284,11 @@
       "background": "松陰が説いたとされる、夢から成功へと至る連鎖を示した言葉。すべての出発点は夢を持つことにある、という志の重要性を弟子たちに伝えた。",
       "source": "https://ja.wikiquote.org/wiki/吉田松陰",
       "uncertain": true,
-      "tags": ["夢", "志", "成功"]
+      "tags": [
+        "夢",
+        "志",
+        "成功"
+      ]
     },
     {
       "id": "roosevelt-doubt",
@@ -211,7 +299,11 @@
       "background": "1945年、亡くなる直前に準備していた演説の草稿にあった言葉。大恐慌と戦争という未曾有の困難を国民とともに乗り越えてきた経験から、希望を持つことの力を説いた。",
       "source": "https://en.wikiquote.org/wiki/Franklin_D._Roosevelt",
       "uncertain": false,
-      "tags": ["未来", "希望", "挑戦"]
+      "tags": [
+        "未来",
+        "希望",
+        "挑戦"
+      ]
     },
     {
       "id": "hideyo-noguchi-effort",
@@ -222,7 +314,11 @@
       "background": "貧しい農家に生まれ、ハンディを抱えながら独学と猛勉強で道を切り拓いた野口らしい言葉。天賦の才ではなく、人並み外れた努力こそが天才を作るという信念を表す。",
       "source": "https://ja.wikiquote.org/wiki/野口英世",
       "uncertain": true,
-      "tags": ["努力", "学び", "成長"]
+      "tags": [
+        "努力",
+        "学び",
+        "成長"
+      ]
     },
     {
       "id": "twain-twenty-years",
@@ -233,7 +329,11 @@
       "background": "挑戦をためらう人の背中を押す言葉として有名だが、トウェイン本人の著作には見つかっておらず、後世に彼へ帰された名言とされる。後悔は行動からより不行動から生まれる、という普遍的な真理を語る。",
       "source": "https://en.wikiquote.org/wiki/Mark_Twain",
       "uncertain": true,
-      "tags": ["挑戦", "後悔", "人生"]
+      "tags": [
+        "挑戦",
+        "後悔",
+        "人生"
+      ]
     },
     {
       "id": "saigo-keiten-aijin",
@@ -244,7 +344,11 @@
       "background": "西郷が座右の銘とした言葉。天の道理を敬い、自分を愛するように他人を愛する、という彼の倫理観の核心を示す。後に著作『南洲翁遺訓』にもこの精神が貫かれている。",
       "source": "https://ja.wikiquote.org/wiki/西郷隆盛",
       "uncertain": false,
-      "tags": ["人徳", "信念", "人生"]
+      "tags": [
+        "人徳",
+        "信念",
+        "人生"
+      ]
     },
     {
       "id": "aristotle-habit",
@@ -255,7 +359,11 @@
       "background": "この一文は哲学者ウィル・デュラントがアリストテレスの『ニコマコス倫理学』を要約したものとされるが、徳は反復された行為によって身につくというアリストテレスの思想を正確に表している。",
       "source": "https://en.wikiquote.org/wiki/Aristotle",
       "uncertain": true,
-      "tags": ["習慣", "継続", "成長"]
+      "tags": [
+        "習慣",
+        "継続",
+        "成長"
+      ]
     },
     {
       "id": "ichiro-small-steps",
@@ -266,7 +374,11 @@
       "background": "2004年にメジャー記録となる年間262安打を達成した際の記者会見で語った言葉。華々しい記録の裏にあるのは、日々の地道な反復だという彼の哲学を表している。",
       "source": "https://ja.wikiquote.org/wiki/イチロー",
       "uncertain": false,
-      "tags": ["継続", "努力", "成功"]
+      "tags": [
+        "継続",
+        "努力",
+        "成功"
+      ]
     },
     {
       "id": "socrates-know",
@@ -277,7 +389,11 @@
       "background": "プラトンの『ソクラテスの弁明』に由来する有名な逆説。自分の無知を自覚している点で、知っていると思い込む人より賢い、という謙虚さと探究の出発点を示す。",
       "source": "https://en.wikiquote.org/wiki/Socrates",
       "uncertain": false,
-      "tags": ["学び", "謙虚", "知恵"]
+      "tags": [
+        "学び",
+        "謙虚",
+        "知恵"
+      ]
     },
     {
       "id": "honda-success-failure",
@@ -288,7 +404,11 @@
       "background": "数えきれない試作と失敗の末に革新的な製品を生んだ本田らしい言葉。失敗こそが成功の土台であり、挑戦をやめないことが大切だという信念を表している。",
       "source": "https://ja.wikiquote.org/wiki/本田宗一郎",
       "uncertain": true,
-      "tags": ["失敗", "成功", "挑戦"]
+      "tags": [
+        "失敗",
+        "成功",
+        "挑戦"
+      ]
     },
     {
       "id": "anne-frank-improve",
@@ -299,7 +419,11 @@
       "background": "極限の状況の隠れ家で書かれた日記の一節。絶望的な日々の中でも、世界をより良くする行動は誰でも今すぐ始められる、という希望を失わない彼女の心が表れている。",
       "source": "https://en.wikiquote.org/wiki/Anne_Frank",
       "uncertain": false,
-      "tags": ["希望", "行動", "平和"]
+      "tags": [
+        "希望",
+        "行動",
+        "平和"
+      ]
     },
     {
       "id": "churchill-courage",
@@ -310,7 +434,11 @@
       "background": "チャーチルの言葉として広く知られるが、確実な出典は特定されていないとされる。それでも、戦時下で幾多の苦境を耐え抜いた彼の精神を表す言葉として世界中で引用されている。",
       "source": "https://en.wikiquote.org/wiki/Winston_Churchill",
       "uncertain": true,
-      "tags": ["勇気", "継続", "逆境"]
+      "tags": [
+        "勇気",
+        "継続",
+        "逆境"
+      ]
     },
     {
       "id": "miyazawa-ame-nimo",
@@ -321,7 +449,11 @@
       "background": "賢治が病床で手帳に書き留めた詩。雨にも風にも負けず、慎ましく他者のために生きる人になりたい、という彼の理想の生き方が静かに綴られている。",
       "source": "https://ja.wikiquote.org/wiki/宮沢賢治",
       "uncertain": false,
-      "tags": ["人生", "理想", "強さ"]
+      "tags": [
+        "人生",
+        "理想",
+        "強さ"
+      ]
     },
     {
       "id": "goethe-dream",
@@ -332,7 +464,11 @@
       "background": "この英訳はスコットランドの登山家マレーが著書で紹介し、ゲーテの『ファウスト』の一節を意訳したものとされる。夢を抱いたらまず踏み出せ、その大胆さが道を開くという力強い励まし。",
       "source": "https://en.wikiquote.org/wiki/Johann_Wolfgang_von_Goethe",
       "uncertain": true,
-      "tags": ["夢", "行動", "勇気"]
+      "tags": [
+        "夢",
+        "行動",
+        "勇気"
+      ]
     },
     {
       "id": "kusunoki-seven-lives",
@@ -343,7 +479,11 @@
       "background": "湊川の戦いで敗死する直前、弟と交わしたとされる言葉。たとえ何度生まれ変わっても志を貫くという、揺るがぬ信念を象徴する。",
       "source": "https://ja.wikiquote.org/wiki/楠木正成",
       "uncertain": true,
-      "tags": ["信念", "忠義", "強さ"]
+      "tags": [
+        "信念",
+        "忠義",
+        "強さ"
+      ]
     },
     {
       "id": "drucker-future",
@@ -354,7 +494,11 @@
       "background": "未来は受け身で待つものではなく、自らの行動で創り出すものだ、というドラッカーの実践的な経営思想を表す言葉(同様の表現はアラン・ケイらも用いている)。",
       "source": "https://en.wikiquote.org/wiki/Peter_Drucker",
       "uncertain": true,
-      "tags": ["未来", "行動", "仕事"]
+      "tags": [
+        "未来",
+        "行動",
+        "仕事"
+      ]
     }
   ]
 }

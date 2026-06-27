@@ -1,17 +1,6 @@
 {
   "quotes": [
     {
-      "id": "davinci-obstacles",
-      "text": "障害が私を屈服させることはない。あらゆる障害は固い決意の前に屈する。",
-      "original": "Obstacles cannot crush me; every obstacle yields to stern resolve.",
-      "author": "レオナルド・ダ・ヴィンチ",
-      "authorBio": "ルネサンス期イタリアの芸術家・科学者。『モナ・リザ』『最後の晩餐』を描く一方、解剖学や飛行機械の研究にも没頭した万能の天才。",
-      "background": "手稿に残された言葉。芸術から科学まで未知の領域に挑み続けた彼の、困難を意志で乗り越える姿勢を表す。",
-      "source": "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
-      "uncertain": false,
-      "tags": ["挑戦", "意志", "逆境"]
-    },
-    {
       "id": "michelangelo-aim-low",
       "text": "最大の危険は、目標が高すぎて達成できないことではなく、低すぎる目標を達成してしまうことだ。",
       "original": "The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.",
@@ -20,7 +9,11 @@
       "background": "高みを目指すことの大切さを説いた言葉として広く伝わる。完璧を求め生涯妥協しなかった彼の制作姿勢と重なる。",
       "source": "https://en.wikiquote.org/wiki/Michelangelo",
       "uncertain": true,
-      "tags": ["目標", "挑戦", "成長"]
+      "tags": [
+        "目標",
+        "挑戦",
+        "成長"
+      ]
     },
     {
       "id": "beethoven-no-rule",
@@ -31,7 +24,11 @@
       "background": "難聴という音楽家にとって致命的な障害を抱えながら、苦悩の中から偉大な作品を生み出した彼の信念を映す言葉。",
       "source": "https://en.wikiquote.org/wiki/Ludwig_van_Beethoven",
       "uncertain": true,
-      "tags": ["逆境", "強さ", "芸術"]
+      "tags": [
+        "逆境",
+        "強さ",
+        "芸術"
+      ]
     },
     {
       "id": "mozart-neither",
@@ -42,7 +39,11 @@
       "background": "天才の本質は知性や想像力よりも、対象への深い愛にあると語った言葉。音楽への純粋な情熱に生きた彼らしい。",
       "source": "https://en.wikiquote.org/wiki/Wolfgang_Amadeus_Mozart",
       "uncertain": true,
-      "tags": ["情熱", "愛", "芸術"]
+      "tags": [
+        "情熱",
+        "愛",
+        "芸術"
+      ]
     },
     {
       "id": "shakespeare-ripeness",
@@ -53,7 +54,11 @@
       "background": "『ハムレット』の登場人物オフィーリアの台詞。人は自分の現在は知っていても、これからどんな存在になれるかは未知だ、という人間の可能性を示す。",
       "source": "https://en.wikiquote.org/wiki/William_Shakespeare",
       "uncertain": false,
-      "tags": ["可能性", "人生", "成長"]
+      "tags": [
+        "可能性",
+        "人生",
+        "成長"
+      ]
     },
     {
       "id": "vangogh-great-things",
@@ -64,7 +69,11 @@
       "background": "弟テオへの手紙に綴られた言葉。困窮と孤独の中でも、日々の地道な努力を信じて絵を描き続けた彼の信条がにじむ。",
       "source": "https://en.wikiquote.org/wiki/Vincent_van_Gogh",
       "uncertain": false,
-      "tags": ["継続", "努力", "芸術"]
+      "tags": [
+        "継続",
+        "努力",
+        "芸術"
+      ]
     },
     {
       "id": "picasso-meaning",
@@ -75,7 +84,11 @@
       "background": "才能を見出すだけでなく、それを他者や社会に還元することにこそ人生の目的があると説いた言葉。",
       "source": "https://en.wikiquote.org/wiki/Pablo_Picasso",
       "uncertain": true,
-      "tags": ["才能", "人生", "貢献"]
+      "tags": [
+        "才能",
+        "人生",
+        "貢献"
+      ]
     },
     {
       "id": "tolstoy-change-world",
@@ -86,7 +99,11 @@
       "background": "社会の変革を願う前に、まず自分自身を省みて変えることの大切さを説いた言葉。彼の倫理思想の核を示す。",
       "source": "https://en.wikiquote.org/wiki/Leo_Tolstoy",
       "uncertain": false,
-      "tags": ["自己変革", "成長", "信念"]
+      "tags": [
+        "自己変革",
+        "成長",
+        "信念"
+      ]
     },
     {
       "id": "hemingway-listen",
@@ -97,7 +114,11 @@
       "background": "他者の言葉に深く耳を傾けることの価値を語った言葉。人間観察を作品の源泉とした彼らしい洞察。",
       "source": "https://en.wikiquote.org/wiki/Ernest_Hemingway",
       "uncertain": false,
-      "tags": ["傾聴", "人間関係", "知恵"]
+      "tags": [
+        "傾聴",
+        "人間関係",
+        "知恵"
+      ]
     },
     {
       "id": "newton-shoulders",
@@ -108,7 +129,11 @@
       "background": "1675年、科学者フックへの手紙に記した言葉。自らの発見が先人たちの積み重ねの上にあることを認める謙虚さを表す。",
       "source": "https://en.wikiquote.org/wiki/Isaac_Newton",
       "uncertain": false,
-      "tags": ["謙虚", "学び", "知恵"]
+      "tags": [
+        "謙虚",
+        "学び",
+        "知恵"
+      ]
     },
     {
       "id": "galileo-cannot-teach",
@@ -119,7 +144,11 @@
       "background": "学びとは外から詰め込むものではなく、自ら発見するのを助けることだという教育観を示した言葉。",
       "source": "https://en.wikiquote.org/wiki/Galileo_Galilei",
       "uncertain": false,
-      "tags": ["学び", "教育", "気づき"]
+      "tags": [
+        "学び",
+        "教育",
+        "気づき"
+      ]
     },
     {
       "id": "tesla-present-future",
@@ -130,7 +159,11 @@
       "background": "存命中は十分に評価されなかったテスラが、未来の評価を信じて研究に打ち込んだ姿勢を表す言葉。",
       "source": "https://en.wikiquote.org/wiki/Nikola_Tesla",
       "uncertain": false,
-      "tags": ["未来", "信念", "挑戦"]
+      "tags": [
+        "未来",
+        "信念",
+        "挑戦"
+      ]
     },
     {
       "id": "hawking-look-up",
@@ -141,7 +174,11 @@
       "background": "全身が不自由になっても宇宙の謎を探究し続けたホーキングが、好奇心を持ち希望を見上げて生きることの大切さを語った言葉。",
       "source": "https://en.wikiquote.org/wiki/Stephen_Hawking",
       "uncertain": false,
-      "tags": ["希望", "好奇心", "逆境"]
+      "tags": [
+        "希望",
+        "好奇心",
+        "逆境"
+      ]
     },
     {
       "id": "pasteur-chance",
@@ -152,7 +189,11 @@
       "background": "1854年の講演で語った言葉。偶然の発見も、日頃から準備し注意を払う者にしか掴めないという科学者の心得を示す。",
       "source": "https://en.wikiquote.org/wiki/Louis_Pasteur",
       "uncertain": false,
-      "tags": ["準備", "努力", "成功"]
+      "tags": [
+        "準備",
+        "努力",
+        "成功"
+      ]
     },
     {
       "id": "feynman-fool",
@@ -163,7 +204,11 @@
       "background": "1974年のカリフォルニア工科大学の卒業講演での言葉。科学的誠実さの第一歩は、自分自身を欺かないことだと説いた。",
       "source": "https://en.wikiquote.org/wiki/Richard_Feynman",
       "uncertain": false,
-      "tags": ["誠実", "自己認識", "知恵"]
+      "tags": [
+        "誠実",
+        "自己認識",
+        "知恵"
+      ]
     },
     {
       "id": "sagan-somewhere",
@@ -174,7 +219,11 @@
       "background": "宇宙にはまだ解き明かされていない驚異が無数にあるという、探究心と好奇心をかき立てる言葉。",
       "source": "https://en.wikiquote.org/wiki/Carl_Sagan",
       "uncertain": true,
-      "tags": ["好奇心", "探究", "希望"]
+      "tags": [
+        "好奇心",
+        "探究",
+        "希望"
+      ]
     },
     {
       "id": "plato-beginning",
@@ -185,7 +234,11 @@
       "background": "『国家』の一節。何事も最初の一歩と土台が肝心であるという、教育や物事の本質についての洞察。",
       "source": "https://en.wikiquote.org/wiki/Plato",
       "uncertain": false,
-      "tags": ["行動", "始まり", "基礎"]
+      "tags": [
+        "行動",
+        "始まり",
+        "基礎"
+      ]
     },
     {
       "id": "laozi-journey",
@@ -196,7 +249,11 @@
       "background": "『道徳経』第六十四章に由来する有名な言葉。どんなに遠大な目標も、目の前の小さな一歩から始まることを説く。",
       "source": "https://en.wikiquote.org/wiki/Laozi",
       "uncertain": false,
-      "tags": ["行動", "継続", "始まり"]
+      "tags": [
+        "行動",
+        "継続",
+        "始まり"
+      ]
     },
     {
       "id": "sunzi-know-enemy",
@@ -207,7 +264,11 @@
       "background": "『孫子』謀攻篇の一節。相手と自分の両方を正しく理解していれば、何度戦っても危険はないという、洞察と準備の重要性を説く。",
       "source": "https://ja.wikiquote.org/wiki/孫子",
       "uncertain": false,
-      "tags": ["戦略", "自己認識", "知恵"]
+      "tags": [
+        "戦略",
+        "自己認識",
+        "知恵"
+      ]
     },
     {
       "id": "seneca-luck",
@@ -218,7 +279,11 @@
       "background": "ストア哲学の実践的な人生観を表す言葉として広く伝わる。日頃の準備があってこそ好機を活かせる、という教え。",
       "source": "https://en.wikiquote.org/wiki/Seneca_the_Younger",
       "uncertain": true,
-      "tags": ["準備", "機会", "成功"]
+      "tags": [
+        "準備",
+        "機会",
+        "成功"
+      ]
     },
     {
       "id": "aurelius-thoughts",
@@ -229,7 +294,11 @@
       "background": "『自省録』に通じる思想。人生の幸福は外的環境より、自分の思考のあり方で決まるというストア哲学の核心を示す。",
       "source": "https://en.wikiquote.org/wiki/Marcus_Aurelius",
       "uncertain": true,
-      "tags": ["思考", "幸福", "人生"]
+      "tags": [
+        "思考",
+        "幸福",
+        "人生"
+      ]
     },
     {
       "id": "nietzsche-why",
@@ -240,7 +309,11 @@
       "background": "『偶像の黄昏』に記された言葉。人生の目的(なぜ)を持つ者は、どんな困難(どのように)にも耐えられるという、意味の力を説く。",
       "source": "https://en.wikiquote.org/wiki/Friedrich_Nietzsche",
       "uncertain": false,
-      "tags": ["意味", "逆境", "強さ"]
+      "tags": [
+        "意味",
+        "逆境",
+        "強さ"
+      ]
     },
     {
       "id": "voltaire-perfect-good",
@@ -251,7 +324,11 @@
       "background": "完璧を求めすぎると、十分に良いものさえ実現できなくなる、という戒め。行動や決断を促す言葉として引用される。",
       "source": "https://en.wikiquote.org/wiki/Voltaire",
       "uncertain": false,
-      "tags": ["行動", "完璧主義", "知恵"]
+      "tags": [
+        "行動",
+        "完璧主義",
+        "知恵"
+      ]
     },
     {
       "id": "emerson-what-lies-within",
@@ -262,7 +339,11 @@
       "background": "過去や未来の出来事よりも、自分の内に秘めた力こそが人生を決めるという、自己信頼の思想を凝縮した言葉。",
       "source": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
       "uncertain": true,
-      "tags": ["自己信頼", "内面", "強さ"]
+      "tags": [
+        "自己信頼",
+        "内面",
+        "強さ"
+      ]
     },
     {
       "id": "thoreau-castles",
@@ -273,7 +354,11 @@
       "background": "『ウォールデン』の結びにある言葉。夢を描くこと自体は無駄ではなく、あとは現実の土台を築けばよいと励ます。",
       "source": "https://en.wikiquote.org/wiki/Henry_David_Thoreau",
       "uncertain": false,
-      "tags": ["夢", "行動", "希望"]
+      "tags": [
+        "夢",
+        "行動",
+        "希望"
+      ]
     },
     {
       "id": "angelou-feel",
@@ -284,7 +369,11 @@
       "background": "人間関係の本質を突いた言葉として広く愛される。理屈よりも、人にどんな感情を残すかが心に刻まれると説く。",
       "source": "https://en.wikiquote.org/wiki/Maya_Angelou",
       "uncertain": false,
-      "tags": ["人間関係", "思いやり", "人生"]
+      "tags": [
+        "人間関係",
+        "思いやり",
+        "人生"
+      ]
     },
     {
       "id": "wilde-yourself",
@@ -295,7 +384,11 @@
       "background": "他人を真似るより、唯一無二の自分自身を生きることの価値を、彼らしいユーモアで表現した言葉。",
       "source": "https://en.wikiquote.org/wiki/Oscar_Wilde",
       "uncertain": true,
-      "tags": ["個性", "自分らしさ", "人生"]
+      "tags": [
+        "個性",
+        "自分らしさ",
+        "人生"
+      ]
     },
     {
       "id": "saintexupery-essential",
@@ -306,7 +399,11 @@
       "background": "『星の王子さま』でキツネが王子に贈る有名な言葉。本当に大切なものは、目ではなく心でしか捉えられないと教える。",
       "source": "https://en.wikiquote.org/wiki/Antoine_de_Saint-Exupéry",
       "uncertain": false,
-      "tags": ["愛", "本質", "人生"]
+      "tags": [
+        "愛",
+        "本質",
+        "人生"
+      ]
     },
     {
       "id": "teresa-small-things",
@@ -317,7 +414,11 @@
       "background": "壮大な行いよりも、目の前の小さな奉仕を深い愛をもって行うことの尊さを説いた、彼女の活動の根幹を表す言葉。",
       "source": "https://en.wikiquote.org/wiki/Mother_Teresa",
       "uncertain": false,
-      "tags": ["愛", "奉仕", "思いやり"]
+      "tags": [
+        "愛",
+        "奉仕",
+        "思いやり"
+      ]
     },
     {
       "id": "mlk-staircase",
@@ -328,7 +429,11 @@
       "background": "先が見えない状況でも、信念をもって踏み出すことの大切さを説いた言葉。困難な公民権運動を率いた彼の姿勢を映す。",
       "source": "https://en.wikiquote.org/wiki/Martin_Luther_King_Jr.",
       "uncertain": false,
-      "tags": ["信念", "勇気", "行動"]
+      "tags": [
+        "信念",
+        "勇気",
+        "行動"
+      ]
     },
     {
       "id": "jfk-ask-not",
@@ -339,7 +444,11 @@
       "background": "1961年の大統領就任演説の一節。権利を求めるだけでなく、社会へ自ら貢献する市民であれと国民に呼びかけた。",
       "source": "https://en.wikiquote.org/wiki/John_F._Kennedy",
       "uncertain": false,
-      "tags": ["貢献", "責任", "行動"]
+      "tags": [
+        "貢献",
+        "責任",
+        "行動"
+      ]
     },
     {
       "id": "troosevelt-arena",
@@ -350,7 +459,11 @@
       "background": "1910年の演説「共和国の市民」の一節。安全な場所から批判する者ではなく、泥にまみれて挑戦する者を称えた言葉。",
       "source": "https://en.wikiquote.org/wiki/Theodore_Roosevelt",
       "uncertain": false,
-      "tags": ["挑戦", "勇気", "行動"]
+      "tags": [
+        "挑戦",
+        "勇気",
+        "行動"
+      ]
     },
     {
       "id": "franklin-invest-knowledge",
@@ -361,7 +474,11 @@
       "background": "学ぶことこそが最も確実で実りある投資である、という彼の実利的かつ生涯学習を重んじる思想を表す言葉。",
       "source": "https://en.wikiquote.org/wiki/Benjamin_Franklin",
       "uncertain": false,
-      "tags": ["学び", "成長", "自己投資"]
+      "tags": [
+        "学び",
+        "成長",
+        "自己投資"
+      ]
     },
     {
       "id": "napoleon-impossible",
@@ -372,7 +489,11 @@
       "background": "困難を前にしても不可能と決めつけない、彼の不屈の行動哲学を表す言葉として広く伝わる。",
       "source": "https://en.wikiquote.org/wiki/Napoleon",
       "uncertain": true,
-      "tags": ["挑戦", "意志", "勇気"]
+      "tags": [
+        "挑戦",
+        "意志",
+        "勇気"
+      ]
     },
     {
       "id": "douglass-struggle",
@@ -383,7 +504,11 @@
       "background": "1857年の演説の一節。権利や自由は、要求し闘う者にしか得られないという、彼の苦難の人生から生まれた信念。",
       "source": "https://en.wikiquote.org/wiki/Frederick_Douglass",
       "uncertain": false,
-      "tags": ["努力", "信念", "逆境"]
+      "tags": [
+        "努力",
+        "信念",
+        "逆境"
+      ]
     },
     {
       "id": "parks-fear",
@@ -394,7 +519,11 @@
       "background": "心を決めれば恐れは小さくなる、と語った言葉。たった一人の静かな勇気が大きな変化を生んだ彼女らしい。",
       "source": "https://en.wikiquote.org/wiki/Rosa_Parks",
       "uncertain": false,
-      "tags": ["勇気", "信念", "自由"]
+      "tags": [
+        "勇気",
+        "信念",
+        "自由"
+      ]
     },
     {
       "id": "tagore-cross-sea",
@@ -405,7 +534,11 @@
       "background": "眺めて思い悩むより、まず行動を起こすことの大切さを説いた言葉。詩的な比喩に彼の人生観がにじむ。",
       "source": "https://en.wikiquote.org/wiki/Rabindranath_Tagore",
       "uncertain": false,
-      "tags": ["行動", "挑戦", "決断"]
+      "tags": [
+        "行動",
+        "挑戦",
+        "決断"
+      ]
     },
     {
       "id": "gibran-work-love",
@@ -416,7 +549,11 @@
       "background": "『預言者』の一節「働くことは、目に見える形になった愛である」に基づく。仕事に愛を込めることの意味を説く。",
       "source": "https://en.wikiquote.org/wiki/Kahlil_Gibran",
       "uncertain": false,
-      "tags": ["仕事", "愛", "情熱"]
+      "tags": [
+        "仕事",
+        "愛",
+        "情熱"
+      ]
     },
     {
       "id": "brucelee-water",
@@ -427,7 +564,11 @@
       "background": "形にとらわれず、状況に応じて柔軟に形を変える水のあり方を理想とした言葉。彼の武術哲学の核心を表す。",
       "source": "https://en.wikiquote.org/wiki/Bruce_Lee",
       "uncertain": false,
-      "tags": ["柔軟", "適応", "哲学"]
+      "tags": [
+        "柔軟",
+        "適応",
+        "哲学"
+      ]
     },
     {
       "id": "ali-count-days",
@@ -438,7 +579,11 @@
       "background": "ただ時間が過ぎるのを待つのではなく、一日一日を価値あるものにせよと説いた言葉。彼の生き様を象徴する。",
       "source": "https://en.wikiquote.org/wiki/Muhammad_Ali",
       "uncertain": true,
-      "tags": ["時間", "人生", "情熱"]
+      "tags": [
+        "時間",
+        "人生",
+        "情熱"
+      ]
     },
     {
       "id": "pele-success",
@@ -449,7 +594,11 @@
       "background": "頂点を極めた選手が語った成功の定義。才能だけでなく、努力と愛こそが結果を生むという信念を示す。",
       "source": "https://en.wikiquote.org/wiki/Pelé",
       "uncertain": false,
-      "tags": ["成功", "努力", "情熱"]
+      "tags": [
+        "成功",
+        "努力",
+        "情熱"
+      ]
     },
     {
       "id": "ford-think-can",
@@ -460,7 +609,11 @@
       "background": "自分の可能性をどう信じるかが、結果を大きく左右するという心構えを説いた言葉。",
       "source": "https://en.wikiquote.org/wiki/Henry_Ford",
       "uncertain": true,
-      "tags": ["自己信頼", "挑戦", "心構え"]
+      "tags": [
+        "自己信頼",
+        "挑戦",
+        "心構え"
+      ]
     },
     {
       "id": "carnegie-team",
@@ -471,7 +624,11 @@
       "background": "個人の力より、人を束ねて共通の目標へ導くことの大切さを説いた言葉。事業家としての彼の哲学を表す。",
       "source": "https://en.wikiquote.org/wiki/Andrew_Carnegie",
       "uncertain": true,
-      "tags": ["チーム", "協力", "仕事"]
+      "tags": [
+        "チーム",
+        "協力",
+        "仕事"
+      ]
     },
     {
       "id": "chanel-decide",
@@ -482,7 +639,11 @@
       "background": "自分の頭で考え、声に出すことこそ最も勇気ある行為だと語った言葉。既成概念に挑み続けた彼女らしい。",
       "source": "https://en.wikiquote.org/wiki/Coco_Chanel",
       "uncertain": true,
-      "tags": ["自分らしさ", "勇気", "信念"]
+      "tags": [
+        "自分らしさ",
+        "勇気",
+        "信念"
+      ]
     },
     {
       "id": "frankl-freedom",
@@ -493,7 +654,11 @@
       "background": "極限状況でも、出来事にどう反応するかは自分で選べる、という人間の自由を説いた思想。彼の心理学の核心を表す。",
       "source": "https://en.wikiquote.org/wiki/Viktor_Frankl",
       "uncertain": true,
-      "tags": ["自由", "選択", "逆境"]
+      "tags": [
+        "自由",
+        "選択",
+        "逆境"
+      ]
     },
     {
       "id": "eroosevelt-belief",
@@ -504,7 +669,11 @@
       "background": "夢を信じる心が未来を切り拓くという、希望に満ちた言葉。社会的な偏見と闘い続けた彼女の信念を映す。",
       "source": "https://en.wikiquote.org/wiki/Eleanor_Roosevelt",
       "uncertain": true,
-      "tags": ["夢", "希望", "未来"]
+      "tags": [
+        "夢",
+        "希望",
+        "未来"
+      ]
     },
     {
       "id": "christie-fresh-start",
@@ -515,7 +684,11 @@
       "background": "物事の終わりを新たな出発点として捉える前向きな言葉。人生の転機に勇気を与える一節として親しまれる。",
       "source": "https://en.wikiquote.org/wiki/Agatha_Christie",
       "uncertain": true,
-      "tags": ["再出発", "希望", "人生"]
+      "tags": [
+        "再出発",
+        "希望",
+        "人生"
+      ]
     },
     {
       "id": "ieyasu-heavy-load",
@@ -526,7 +699,11 @@
       "background": "「東照公御遺訓」として伝わる言葉。人生は重荷を背負って歩む長い道のようなもので、焦らず着実に進めと説く。後世の作とする説もある。",
       "source": "https://ja.wikiquote.org/wiki/徳川家康",
       "uncertain": true,
-      "tags": ["忍耐", "人生", "継続"]
+      "tags": [
+        "忍耐",
+        "人生",
+        "継続"
+      ]
     },
     {
       "id": "nobunaga-zehi",
@@ -537,7 +714,11 @@
       "background": "本能寺の変で謀反が光秀の手によるものと知った際の言葉と『信長公記』に伝わる。是非を論じても始まらない、覚悟を決めるという潔さを表す。",
       "source": "https://ja.wikiquote.org/wiki/織田信長",
       "uncertain": false,
-      "tags": ["覚悟", "決断", "強さ"]
+      "tags": [
+        "覚悟",
+        "決断",
+        "強さ"
+      ]
     },
     {
       "id": "hideyoshi-dream",
@@ -548,7 +729,11 @@
       "background": "秀吉の辞世の句と伝わる。栄華を極めた人生も、振り返れば露のようにはかない夢のまた夢だったと詠む。",
       "source": "https://ja.wikiquote.org/wiki/豊臣秀吉",
       "uncertain": false,
-      "tags": ["人生", "無常", "謙虚"]
+      "tags": [
+        "人生",
+        "無常",
+        "謙虚"
+      ]
     },
     {
       "id": "shingen-people-castle",
@@ -559,7 +744,11 @@
       "background": "『甲陽軍鑑』に伝わる言葉。堅固な城より、信頼できる人材こそが国を守る最大の財産であるという、人を重んじる統治観を示す。",
       "source": "https://ja.wikiquote.org/wiki/武田信玄",
       "uncertain": true,
-      "tags": ["人材", "信頼", "組織"]
+      "tags": [
+        "人材",
+        "信頼",
+        "組織"
+      ]
     },
     {
       "id": "masamune-guest",
@@ -570,7 +759,11 @@
       "background": "政宗の遺訓と伝わる一節。人生を旅の客として気楽に受けとめれば、思い悩むことはないという達観を示す。",
       "source": "https://ja.wikiquote.org/wiki/伊達政宗",
       "uncertain": true,
-      "tags": ["人生", "心構え", "達観"]
+      "tags": [
+        "人生",
+        "心構え",
+        "達観"
+      ]
     },
     {
       "id": "musashi-no-regret",
@@ -581,7 +774,11 @@
       "background": "武蔵が死の直前に著した自戒の書『独行道』の一節。一度決めて行ったことを後悔しない、という覚悟の生き方を表す。",
       "source": "https://ja.wikiquote.org/wiki/宮本武蔵",
       "uncertain": false,
-      "tags": ["覚悟", "決断", "信念"]
+      "tags": [
+        "覚悟",
+        "決断",
+        "信念"
+      ]
     },
     {
       "id": "rikyu-tea",
@@ -592,7 +789,11 @@
       "background": "利休の教えを伝える言葉。茶の湯の本質は華美な作法ではなく、湯を沸かし茶を点てるという当たり前の行いを丁寧に究めることにあると説く。",
       "source": "https://ja.wikiquote.org/wiki/千利休",
       "uncertain": true,
-      "tags": ["本質", "シンプル", "丁寧"]
+      "tags": [
+        "本質",
+        "シンプル",
+        "丁寧"
+      ]
     },
     {
       "id": "soseki-hard-to-live",
@@ -603,7 +804,11 @@
       "background": "小説『草枕』の有名な冒頭。理屈・情・意地のどれに偏っても生きづらい、という人の世の機微を端的に描く。",
       "source": "https://ja.wikiquote.org/wiki/夏目漱石",
       "uncertain": false,
-      "tags": ["人生", "人間関係", "知恵"]
+      "tags": [
+        "人生",
+        "人間関係",
+        "知恵"
+      ]
     },
     {
       "id": "shibusawa-kasu",
@@ -614,7 +819,11 @@
       "background": "著書『論語と算盤』に通じる思想。目先の成功や失敗にとらわれず、誠実に努力する過程そのものに価値があると説く。",
       "source": "https://ja.wikiquote.org/wiki/渋沢栄一",
       "uncertain": true,
-      "tags": ["成功", "努力", "誠実"]
+      "tags": [
+        "成功",
+        "努力",
+        "誠実"
+      ]
     },
     {
       "id": "raicho-sun",
@@ -625,7 +834,11 @@
       "background": "1911年、『青鞜』創刊号に寄せた宣言の冒頭。かつて女性は自ら輝く太陽だったと述べ、女性の主体性の回復を高らかに訴えた。",
       "source": "https://ja.wikiquote.org/wiki/平塚らいてう",
       "uncertain": false,
-      "tags": ["自立", "信念", "勇気"]
+      "tags": [
+        "自立",
+        "信念",
+        "勇気"
+      ]
     },
     {
       "id": "hokusai-ninety",
@@ -636,7 +849,11 @@
       "background": "『富嶽百景』の跋文に記した言葉。高齢になってなお絵の上達を渇望し、生涯学び続けようとした飽くなき探究心を表す。",
       "source": "https://ja.wikiquote.org/wiki/葛飾北斎",
       "uncertain": false,
-      "tags": ["探究", "成長", "継続"]
+      "tags": [
+        "探究",
+        "成長",
+        "継続"
+      ]
     },
     {
       "id": "akiko-golden-nail",
@@ -647,7 +864,11 @@
       "background": "人類が太古から築き上げてきた大きな営みに、自分も黄金の釘を一本打ち込むのだと詠んだ歌。自らの役割と矜持を表す。",
       "source": "https://ja.wikiquote.org/wiki/与謝野晶子",
       "uncertain": false,
-      "tags": ["貢献", "矜持", "情熱"]
+      "tags": [
+        "貢献",
+        "矜持",
+        "情熱"
+      ]
     },
     {
       "id": "tezuka-believe-self",
@@ -658,7 +879,11 @@
       "background": "手塚の言葉として伝わる一節。他者を信頼することの大切さと同時に、何よりも自分自身を信じる強さを持てと励ます。",
       "source": "https://ja.wikiquote.org/wiki/手塚治虫",
       "uncertain": true,
-      "tags": ["自己信頼", "信念", "勇気"]
+      "tags": [
+        "自己信頼",
+        "信念",
+        "勇気"
+      ]
     },
     {
       "id": "kurosawa-bold",
@@ -669,7 +894,11 @@
       "background": "黒澤の創作姿勢を表す言葉として伝わる。準備や細部には悪魔のように緻密に、実行には天使のように大胆に臨めという教え。",
       "source": "https://ja.wikiquote.org/wiki/黒澤明",
       "uncertain": true,
-      "tags": ["仕事", "大胆", "緻密"]
+      "tags": [
+        "仕事",
+        "大胆",
+        "緻密"
+      ]
     },
     {
       "id": "taro-explosion",
@@ -680,7 +909,11 @@
       "background": "岡本太郎を象徴する有名な言葉。芸術とは、自分の内にあるエネルギーを爆発させるように、全身全霊で表現することだと説く。",
       "source": "https://ja.wikiquote.org/wiki/岡本太郎",
       "uncertain": false,
-      "tags": ["情熱", "表現", "勇気"]
+      "tags": [
+        "情熱",
+        "表現",
+        "勇気"
+      ]
     },
     {
       "id": "inamori-formula",
@@ -691,7 +924,11 @@
       "background": "稲盛の経営哲学の核となる方程式。能力や熱意だけでなく、根底にある「考え方」(人間性や姿勢)が結果を大きく左右すると説く。",
       "source": "https://ja.wikiquote.org/wiki/稲盛和夫",
       "uncertain": false,
-      "tags": ["仕事", "心構え", "成功"]
+      "tags": [
+        "仕事",
+        "心構え",
+        "成功"
+      ]
     },
     {
       "id": "tempu-mindset",
@@ -702,7 +939,11 @@
       "background": "天風哲学の中心となる教え。境遇に流されるのではなく、積極的な心構えを持つことで運命を切り拓けると説く。",
       "source": "https://ja.wikiquote.org/wiki/中村天風",
       "uncertain": true,
-      "tags": ["心構え", "運命", "前向き"]
+      "tags": [
+        "心構え",
+        "運命",
+        "前向き"
+      ]
     },
     {
       "id": "oh-effort",
@@ -713,7 +954,11 @@
       "background": "血のにじむような練習を重ねた王が語った言葉として伝わる。本物の努力は必ず実を結ぶという、彼の野球人生を貫く信念。",
       "source": "https://ja.wikiquote.org/wiki/王貞治",
       "uncertain": true,
-      "tags": ["努力", "継続", "成功"]
+      "tags": [
+        "努力",
+        "継続",
+        "成功"
+      ]
     },
     {
       "id": "basho-journey",
@@ -724,7 +969,11 @@
       "background": "『おくのほそ道』の冒頭。歳月は永遠の旅人であり、過ぎゆく年もまた旅人だと述べ、人生そのものを旅と捉える無常観を表す。",
       "source": "https://ja.wikiquote.org/wiki/松尾芭蕉",
       "uncertain": false,
-      "tags": ["人生", "旅", "無常"]
+      "tags": [
+        "人生",
+        "旅",
+        "無常"
+      ]
     },
     {
       "id": "sontoku-small",
@@ -735,7 +984,11 @@
       "background": "尊徳の思想「積小為大」を表す言葉。小さな努力や蓄積を続けることが、やがて大きな成果につながるという報徳の教え。",
       "source": "https://ja.wikiquote.org/wiki/二宮尊徳",
       "uncertain": true,
-      "tags": ["継続", "努力", "成長"]
+      "tags": [
+        "継続",
+        "努力",
+        "成長"
+      ]
     }
   ]
 }
