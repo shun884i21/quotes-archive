@@ -4,10 +4,16 @@ on:
   schedule:
     # 08:00 JST = 23:00 UTC（前日）。実行は数分〜数十分ずれることがある
     - cron: "0 23 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force_warn:
+        description: "在庫通知をテスト（強制的に通知Issueを作成）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: daily-quote
@@ -32,4 +38,32 @@ jobs:
             git push
           else
             echo "変更なし（本日分は追加済みかプールが空）。"
+          fi
+
+      - name: Warn by email (GitHub Issue) when pool is low
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THRESHOLD: "14"
+          OWNER: shun884i21
+        run: |
+          COUNT=$(python3 -c "import json;print(len(json.load(open('pool.json'))['quotes']))")
+          echo "在庫残り: $COUNT 本（しきい値 $THRESHOLD）"
+          # 既存のオープンな在庫警告Issueを探す（タイトルで判定）
+          EXISTING=$(gh issue list --state open --search '格言の在庫 in:title' --json number -q '.[0].number // empty')
+          if [ "$COUNT" -le "$THRESHOLD" ] || [ "${{ inputs.force_warn }}" = "true" ]; then
+            if [ -z "$EXISTING" ]; then
+              gh issue create \
+                --title "格言の在庫が残り${COUNT}本です（補充をおすすめ）" \
+                --assignee "$OWNER" \
+                --body $'pool.json の在庫が残り '"$COUNT"$'本になりました。\n\n## 補充のしかた\n- Claude に「格言アーカイブのプールを補充して」と頼む\n- または pool.json の quotes 配列に追記（id,text,original,author,authorBio,background,source,uncertain,tags）\n\n在庫が増えればこのIssueは自動で閉じられます。'
+              echo "在庫警告Issueを作成しました。"
+            else
+              echo "既に在庫警告Issue #$EXISTING がオープン中。"
+            fi
+          else
+            # 補充済みなら警告Issueを閉じる
+            if [ -n "$EXISTING" ]; then
+              gh issue close "$EXISTING" --comment "在庫が ${COUNT} 本に回復したため自動クローズ。"
+              echo "在庫警告Issue #$EXISTING を閉じました。"
+            fi
           fi
