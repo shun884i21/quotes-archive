@@ -1,12 +1,12 @@
 {
-  "name": "偉人の格言アーカイブ",
+  "name": "世界の偉人の格言アーカイブ",
   "short_name": "格言",
-  "description": "毎朝ひとつ、偉人の格言と人物像・背景を。検索・お気に入りもできる格言アーカイブ。",
+  "description": "毎朝ひとつ、世界の偉人の格言と人物像・背景を。検索・お気に入りもできる格言アーカイブ。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#16213e",
-  "theme_color": "#1a1a2e",
+  "background_color": "#272320",
+  "theme_color": "#322d26",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]

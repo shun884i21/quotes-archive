@@ -1,15 +1,16 @@
 :root {
-  --bg: #14142b;
-  --bg-grad-1: #1a1a2e;
-  --bg-grad-2: #16213e;
-  --surface: #1f2040;
-  --surface-2: #2a2b52;
-  --text: #f0f0f5;
-  --text-dim: #a8a8c0;
-  --accent: #f6c177;
-  --accent-soft: rgba(246, 193, 119, 0.15);
+  /* 目に優しい暖かみのあるダーク（セピア系） */
+  --bg: #2b2722;
+  --bg-grad-1: #322d26;
+  --bg-grad-2: #272320;
+  --surface: #38322b;
+  --surface-2: #463e33;
+  --text: #f1ece2;
+  --text-dim: #b9ae9c;
+  --accent: #f0c27b;
+  --accent-soft: rgba(240, 194, 123, 0.16);
   --border: rgba(255, 255, 255, 0.08);
-  --shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+  --shadow: 0 8px 30px rgba(0, 0, 0, 0.28);
   --radius: 16px;
 }
 
