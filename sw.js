@@ -1,5 +1,5 @@
 // Service Worker — ネットワーク優先（最新の格言を取りに行き、失敗時はキャッシュ）
-const CACHE = "quote-archive-v2";
+const CACHE = "quote-archive-v3";
 const ASSETS = [
   "./",
   "./index.html",
@@ -8,6 +8,9 @@ const ASSETS = [
   "./quotes.json",
   "./manifest.json",
   "./icon.svg",
+  "./icon-180.png",
+  "./icon-192.png",
+  "./icon-512.png",
 ];
 
 self.addEventListener("install", (e) => {
