@@ -1,0 +1,35 @@
+name: Daily Quote
+
+on:
+  schedule:
+    # 08:00 JST = 23:00 UTC（前日）。実行は数分〜数十分ずれることがある
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-quote
+  cancel-in-progress: false
+
+jobs:
+  add-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add today's quote from pool
+        run: python3 scripts/publish_daily.py
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add quotes.json pool.json
+            git commit -m "格言追加(自動): $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+            git push
+          else
+            echo "変更なし（本日分は追加済みかプールが空）。"
+          fi
