@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-06-29T09:03:37+09:00",
+  "updatedAt": "2026-06-30T08:58:40+09:00",
   "quotes": [
+    {
+      "id": "mozart-neither",
+      "text": "才能でも技術でもない。愛、愛、愛こそが音楽の魂だ。",
+      "original": "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.",
+      "author": "ヴォルフガング・アマデウス・モーツァルト",
+      "authorBio": "オーストリアの作曲家。幼少から神童と呼ばれ、生涯に600以上の作品を残した古典派音楽の代表的存在。",
+      "background": "天才の本質は知性や想像力よりも、対象への深い愛にあると語った言葉。音楽への純粋な情熱に生きた彼らしい。",
+      "source": "https://en.wikiquote.org/wiki/Wolfgang_Amadeus_Mozart",
+      "uncertain": true,
+      "tags": [
+        "情熱",
+        "愛",
+        "芸術"
+      ],
+      "addedAt": "2026-06-30",
+      "featuredDate": "2026-06-30"
+    },
     {
       "id": "beethoven-no-rule",
       "text": "本当に優れた人間に、もっとも耐えがたいのは、苦悩を避けることだ。",
