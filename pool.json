@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "shakespeare-ripeness",
-      "text": "我々は今日が人生最良の日だと思って生きるべきだ。",
-      "original": "We know what we are, but know not what we may be.",
-      "author": "ウィリアム・シェイクスピア",
-      "authorBio": "16〜17世紀イギリスの劇作家・詩人。『ハムレット』『ロミオとジュリエット』など、時代を超えて愛される戯曲を数多く残した。",
-      "background": "『ハムレット』の登場人物オフィーリアの台詞。人は自分の現在は知っていても、これからどんな存在になれるかは未知だ、という人間の可能性を示す。",
-      "source": "https://en.wikiquote.org/wiki/William_Shakespeare",
-      "uncertain": false,
-      "tags": [
-        "可能性",
-        "人生",
-        "成長"
-      ]
-    },
-    {
       "id": "vangogh-great-things",
       "text": "偉大なことは、衝動の積み重ねではなく、小さなことの積み重ねによって成し遂げられる。",
       "original": "Great things are not done by impulse, but by a series of small things brought together.",
