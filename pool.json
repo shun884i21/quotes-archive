@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "vangogh-great-things",
-      "text": "偉大なことは、衝動の積み重ねではなく、小さなことの積み重ねによって成し遂げられる。",
-      "original": "Great things are not done by impulse, but by a series of small things brought together.",
-      "author": "フィンセント・ファン・ゴッホ",
-      "authorBio": "オランダの画家。『ひまわり』『星月夜』などで知られる。生前はほとんど評価されなかったが、死後に近代美術の巨匠として認められた。",
-      "background": "弟テオへの手紙に綴られた言葉。困窮と孤独の中でも、日々の地道な努力を信じて絵を描き続けた彼の信条がにじむ。",
-      "source": "https://en.wikiquote.org/wiki/Vincent_van_Gogh",
-      "uncertain": false,
-      "tags": [
-        "継続",
-        "努力",
-        "芸術"
-      ]
-    },
-    {
       "id": "picasso-meaning",
       "text": "人生の意味は、自分の才能を見つけることだ。人生の目的は、それを人に与えることだ。",
       "original": "The meaning of life is to find your gift. The purpose of life is to give it away.",
