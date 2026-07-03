@@ -49,7 +49,11 @@
       const seed = hashStr(todayStr);
       q = quotes[seed % quotes.length];
     }
+    const now = new Date();
+    const youbi = ["日", "月", "火", "水", "木", "金", "土"][now.getDay()];
+    const dateLabel = `${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日（${youbi}）`;
     el.today.innerHTML = `
+      <div class="q-date">${dateLabel}</div>
       <div class="q-text">${esc(q.text)}</div>
       ${q.original ? `<div class="q-original">${esc(q.original)}</div>` : ""}
       <div class="q-author">${esc(q.author)}</div>

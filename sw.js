@@ -1,5 +1,5 @@
 // Service Worker — ネットワーク優先（最新の格言を取りに行き、失敗時はキャッシュ）
-const CACHE = "quote-archive-v6";
+const CACHE = "quote-archive-v7";
 const ASSETS = [
   "./",
   "./index.html",
@@ -27,13 +27,24 @@ self.addEventListener("activate", (e) => {
 
 self.addEventListener("fetch", (e) => {
   if (e.request.method !== "GET") return;
+  const url = new URL(e.request.url);
+  if (url.origin !== location.origin) return; // 外部リソースは触らない
+  url.search = ""; // ?_=タイムスタンプ を除いた正規化キーで保存/照合（キャッシュ肥大と照合ミスを防ぐ）
+  const cacheKey = url.href;
   e.respondWith(
     fetch(e.request)
       .then((res) => {
         const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(e.request, copy)).catch(() => {});
+        caches.open(CACHE).then((c) => c.put(cacheKey, copy)).catch(() => {});
         return res;
       })
-      .catch(() => caches.match(e.request).then((r) => r || caches.match("./index.html")))
+      .catch(() =>
+        caches.match(cacheKey).then((r) => {
+          if (r) return r;
+          // ページ遷移だけHTMLへフォールバック（JSON要求にHTMLを返さない）
+          if (e.request.mode === "navigate") return caches.match("./index.html");
+          return Response.error();
+        })
+      )
   );
 });
