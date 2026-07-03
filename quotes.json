@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-02T09:02:50+09:00",
+  "updatedAt": "2026-07-03T09:00:24+09:00",
   "quotes": [
+    {
+      "id": "picasso-meaning",
+      "text": "人生の意味は、自分の才能を見つけることだ。人生の目的は、それを人に与えることだ。",
+      "original": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+      "author": "パブロ・ピカソ",
+      "authorBio": "スペイン出身の画家。キュビスムを創始し、20世紀美術に革命をもたらした。生涯にわたり画風を変え続けた多作の巨匠。",
+      "background": "才能を見出すだけでなく、それを他者や社会に還元することにこそ人生の目的があると説いた言葉。",
+      "source": "https://en.wikiquote.org/wiki/Pablo_Picasso",
+      "uncertain": true,
+      "tags": [
+        "才能",
+        "人生",
+        "貢献"
+      ],
+      "addedAt": "2026-07-03",
+      "featuredDate": "2026-07-03"
+    },
     {
       "id": "vangogh-great-things",
       "text": "偉大なことは、衝動の積み重ねではなく、小さなことの積み重ねによって成し遂げられる。",
