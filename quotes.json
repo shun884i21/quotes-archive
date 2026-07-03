@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-03T09:00:24+09:00",
+  "updatedAt": "2026-07-04T08:59:58+09:00",
   "quotes": [
+    {
+      "id": "tolstoy-change-world",
+      "text": "誰もが世界を変えようと考えるが、自分自身を変えようとは誰も考えない。",
+      "original": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+      "author": "レフ・トルストイ",
+      "authorBio": "19世紀ロシアの文豪。『戦争と平和』『アンナ・カレーニナ』を著し、世界文学に巨大な足跡を残した。晩年は宗教的・道徳的探求に傾いた。",
+      "background": "社会の変革を願う前に、まず自分自身を省みて変えることの大切さを説いた言葉。彼の倫理思想の核を示す。",
+      "source": "https://en.wikiquote.org/wiki/Leo_Tolstoy",
+      "uncertain": false,
+      "tags": [
+        "自己変革",
+        "成長",
+        "信念"
+      ],
+      "addedAt": "2026-07-04",
+      "featuredDate": "2026-07-04"
+    },
     {
       "id": "picasso-meaning",
       "text": "人生の意味は、自分の才能を見つけることだ。人生の目的は、それを人に与えることだ。",
