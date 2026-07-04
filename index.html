@@ -9,7 +9,7 @@
   <link rel="icon" type="image/svg+xml" href="icon.svg" />
   <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png" />
   <link rel="apple-touch-icon" href="icon-180.png" />
-  <link rel="stylesheet" href="style.css?v=7" />
+  <link rel="stylesheet" href="style.css?v=8" />
 </head>
 <body>
   <header class="app-header">
@@ -34,14 +34,20 @@
     <!-- 検索 -->
     <div class="search-wrap" id="search-wrap">
       <input type="search" id="search-input" placeholder="格言・人物名・キーワードで検索…" autocomplete="off" />
-      <span id="result-count" class="result-count"></span>
     </div>
+
+    <!-- タグ絞り込み -->
+    <div id="tag-bar" class="tag-bar"></div>
+    <span id="result-count" class="result-count"></span>
 
     <!-- 一覧 -->
     <section id="list" class="list"></section>
   </main>
 
   <div id="updated-at" class="updated-at"></div>
+
+  <!-- トップへ戻る -->
+  <button id="to-top" class="to-top" aria-label="トップへ戻る">↑</button>
 
   <!-- 詳細モーダル -->
   <div id="modal-overlay" class="modal-overlay hidden">
@@ -51,6 +57,6 @@
     </div>
   </div>
 
-  <script src="app.js?v=7"></script>
+  <script src="app.js?v=8"></script>
 </body>
 </html>

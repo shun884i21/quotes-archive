@@ -3,10 +3,13 @@
   "use strict";
 
   const FAV_KEY = "quote-archive-favorites";
+  const PAGE = 20; // 一度に表示する件数
   let quotes = [];
   let favorites = loadFavorites();
   let currentTab = "all";
   let query = "";
+  let activeTag = null;
+  let visibleLimit = PAGE;
 
   const el = {
     today: document.getElementById("today-card"),
@@ -15,6 +18,8 @@
     searchWrap: document.getElementById("search-wrap"),
     count: document.getElementById("result-count"),
     tabs: document.getElementById("tabs"),
+    tagBar: document.getElementById("tag-bar"),
+    toTop: document.getElementById("to-top"),
     updatedAt: document.getElementById("updated-at"),
     overlay: document.getElementById("modal-overlay"),
     modalBody: document.getElementById("modal-body"),
@@ -31,6 +36,7 @@
           "最終更新: " + new Date(data.updatedAt).toLocaleString("ja-JP");
       }
       renderToday();
+      buildTagBar();
       render();
     })
     .catch((err) => {
@@ -68,14 +74,52 @@
     if (!btn) return;
     currentTab = btn.dataset.tab;
     el.tabs.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t === btn));
+    visibleLimit = PAGE;
     render();
   });
 
   // ---- 検索 ----
   el.search.addEventListener("input", (e) => {
     query = e.target.value.trim().toLowerCase();
+    visibleLimit = PAGE;
     render();
   });
+
+  // ---- タグ絞り込み ----
+  function buildTagBar() {
+    const freq = {};
+    quotes.forEach((q) => (q.tags || []).forEach((t) => { freq[t] = (freq[t] || 0) + 1; }));
+    const top = Object.keys(freq)
+      .sort((a, b) => freq[b] - freq[a] || a.localeCompare(b, "ja"))
+      .slice(0, 12);
+    el.tagBar.innerHTML = top
+      .map((t) => `<button class="tag-chip" data-tag="${esc(t)}">${esc(t)} <span class="tag-n">${freq[t]}</span></button>`)
+      .join("");
+  }
+
+  function setTag(tag) {
+    activeTag = activeTag === tag ? null : tag; // 同じタグ再タップで解除
+    visibleLimit = PAGE;
+    syncTagBar();
+    render();
+  }
+
+  function syncTagBar() {
+    el.tagBar.querySelectorAll(".tag-chip").forEach((c) =>
+      c.classList.toggle("active", c.dataset.tag === activeTag)
+    );
+  }
+
+  el.tagBar.addEventListener("click", (e) => {
+    const chip = e.target.closest(".tag-chip");
+    if (chip) setTag(chip.dataset.tag);
+  });
+
+  // ---- トップへ戻る ----
+  window.addEventListener("scroll", () => {
+    el.toTop.classList.toggle("show", window.scrollY > 600);
+  }, { passive: true });
+  el.toTop.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
 
   // ---- 一覧描画 ----
   function render() {
@@ -85,13 +129,17 @@
       items = items.filter((q) => favorites.includes(q.id));
     }
 
+    if (activeTag) {
+      items = items.filter((q) => (q.tags || []).includes(activeTag));
+    }
+
     if (query) {
       items = items.filter((q) => matches(q, query));
     }
 
     if (!items.length) {
       el.list.innerHTML = `<div class="empty">${
-        currentTab === "favorites" && !query
+        currentTab === "favorites" && !query && !activeTag
           ? "お気に入りはまだありません。格言の☆を押すと登録できます。"
           : "該当する格言が見つかりませんでした。"
       }</div>`;
@@ -99,14 +147,30 @@
       return;
     }
 
-    el.count.textContent = `${items.length} 件`;
+    el.count.textContent = activeTag ? `「${activeTag}」 ${items.length} 件` : `${items.length} 件`;
 
+    const shown = items.slice(0, visibleLimit);
+    const rest = items.length - shown.length;
+
+    let html;
     if (currentTab === "authors") {
-      el.list.innerHTML = renderByAuthor(items);
+      html = renderByAuthor(shown);
     } else {
-      el.list.innerHTML = items.map(cardHtml).join("");
+      html = shown.map(cardHtml).join("");
     }
+    if (rest > 0) {
+      html += `<button class="load-more" id="load-more">もっと見る（残り ${rest} 件）</button>`;
+    }
+    el.list.innerHTML = html;
     bindCards();
+
+    const more = document.getElementById("load-more");
+    if (more) {
+      more.addEventListener("click", () => {
+        visibleLimit += PAGE;
+        render();
+      });
+    }
   }
 
   function renderByAuthor(items) {
@@ -127,7 +191,7 @@
 
   function cardHtml(q) {
     const isFav = favorites.includes(q.id);
-    const tags = (q.tags || []).map((t) => `<span class="tag">${esc(t)}</span>`).join("");
+    const tags = (q.tags || []).map((t) => `<span class="tag tag-click" data-tag="${esc(t)}">${esc(t)}</span>`).join("");
     return `
       <div class="card" data-id="${q.id}">
         <div class="q-text">${esc(q.text)}</div>
@@ -146,6 +210,8 @@
     el.list.querySelectorAll(".card").forEach((card) => {
       card.addEventListener("click", (e) => {
         if (e.target.closest(".fav-btn")) return;
+        const tagEl = e.target.closest(".tag-click");
+        if (tagEl) { setTag(tagEl.dataset.tag); return; }
         const q = quotes.find((x) => x.id === card.dataset.id);
         if (q) openModal(q);
       });

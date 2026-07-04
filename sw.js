@@ -1,5 +1,5 @@
 // Service Worker — ネットワーク優先（最新の格言を取りに行き、失敗時はキャッシュ）
-const CACHE = "quote-archive-v7";
+const CACHE = "quote-archive-v8";
 const ASSETS = [
   "./",
   "./index.html",
