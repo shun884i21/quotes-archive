@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-05T08:56:56+09:00",
+  "updatedAt": "2026-07-06T09:00:48+09:00",
   "quotes": [
+    {
+      "id": "newton-shoulders",
+      "text": "私が遠くを見渡せたのは、巨人の肩の上に立っていたからだ。",
+      "original": "If I have seen further it is by standing on the shoulders of Giants.",
+      "author": "アイザック・ニュートン",
+      "authorBio": "17〜18世紀イギリスの物理学者・数学者。万有引力の法則や運動の法則を確立し、近代物理学の基礎を築いた。",
+      "background": "1675年、科学者フックへの手紙に記した言葉。自らの発見が先人たちの積み重ねの上にあることを認める謙虚さを表す。",
+      "source": "https://en.wikiquote.org/wiki/Isaac_Newton",
+      "uncertain": false,
+      "tags": [
+        "謙虚",
+        "学び",
+        "知恵"
+      ],
+      "addedAt": "2026-07-06",
+      "featuredDate": "2026-07-06"
+    },
     {
       "id": "hemingway-listen",
       "text": "人の話を完全に聞く人はほとんどいない。だからこそ、聞ける人は強い。",
