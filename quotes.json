@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-07T09:02:16+09:00",
+  "updatedAt": "2026-07-08T08:53:42+09:00",
   "quotes": [
+    {
+      "id": "tesla-present-future",
+      "text": "現在は彼らのものだが、私が本当に力を注いできた未来は、私のものだ。",
+      "original": "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.",
+      "author": "ニコラ・テスラ",
+      "authorBio": "セルビア系アメリカ人の発明家・電気技師。交流送電システムを実用化し、現代の電力網の基礎を築いた。",
+      "background": "存命中は十分に評価されなかったテスラが、未来の評価を信じて研究に打ち込んだ姿勢を表す言葉。",
+      "source": "https://en.wikiquote.org/wiki/Nikola_Tesla",
+      "uncertain": false,
+      "tags": [
+        "未来",
+        "信念",
+        "挑戦"
+      ],
+      "addedAt": "2026-07-08",
+      "featuredDate": "2026-07-08"
+    },
     {
       "id": "galileo-cannot-teach",
       "text": "人に何かを教えることはできない。ただ、自ら気づく手助けができるだけだ。",
