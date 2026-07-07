@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "galileo-cannot-teach",
-      "text": "人に何かを教えることはできない。ただ、自ら気づく手助けができるだけだ。",
-      "original": "You cannot teach a man anything; you can only help him find it within himself.",
-      "author": "ガリレオ・ガリレイ",
-      "authorBio": "16〜17世紀イタリアの天文学者・物理学者。望遠鏡で天体を観測し、地動説を支持して「近代科学の父」と呼ばれた。",
-      "background": "学びとは外から詰め込むものではなく、自ら発見するのを助けることだという教育観を示した言葉。",
-      "source": "https://en.wikiquote.org/wiki/Galileo_Galilei",
-      "uncertain": false,
-      "tags": [
-        "学び",
-        "教育",
-        "気づき"
-      ]
-    },
-    {
       "id": "tesla-present-future",
       "text": "現在は彼らのものだが、私が本当に力を注いできた未来は、私のものだ。",
       "original": "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.",
