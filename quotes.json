@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-09T09:04:32+09:00",
+  "updatedAt": "2026-07-10T08:59:49+09:00",
   "quotes": [
+    {
+      "id": "pasteur-chance",
+      "text": "幸運は、準備のできた者にのみ訪れる。",
+      "original": "Chance favours only the prepared mind.",
+      "author": "ルイ・パスツール",
+      "authorBio": "19世紀フランスの化学者・細菌学者。ワクチンの開発や低温殺菌法(パスチャライゼーション)で、医学と公衆衛生に貢献した。",
+      "background": "1854年の講演で語った言葉。偶然の発見も、日頃から準備し注意を払う者にしか掴めないという科学者の心得を示す。",
+      "source": "https://en.wikiquote.org/wiki/Louis_Pasteur",
+      "uncertain": false,
+      "tags": [
+        "準備",
+        "努力",
+        "成功"
+      ],
+      "addedAt": "2026-07-10",
+      "featuredDate": "2026-07-10"
+    },
     {
       "id": "hawking-look-up",
       "text": "足元を見るのではなく、星を見上げることを忘れないで。",
