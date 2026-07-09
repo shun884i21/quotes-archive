@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "hawking-look-up",
-      "text": "足元を見るのではなく、星を見上げることを忘れないで。",
-      "original": "Remember to look up at the stars and not down at your feet.",
-      "author": "スティーヴン・ホーキング",
-      "authorBio": "20〜21世紀イギリスの理論物理学者。ブラックホールや宇宙論の研究で知られる。難病ALSを患いながらも研究を続けた。",
-      "background": "全身が不自由になっても宇宙の謎を探究し続けたホーキングが、好奇心を持ち希望を見上げて生きることの大切さを語った言葉。",
-      "source": "https://en.wikiquote.org/wiki/Stephen_Hawking",
-      "uncertain": false,
-      "tags": [
-        "希望",
-        "好奇心",
-        "逆境"
-      ]
-    },
-    {
       "id": "pasteur-chance",
       "text": "幸運は、準備のできた者にのみ訪れる。",
       "original": "Chance favours only the prepared mind.",
