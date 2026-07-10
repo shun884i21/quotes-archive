@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-10T08:59:49+09:00",
+  "updatedAt": "2026-07-11T08:54:16+09:00",
   "quotes": [
+    {
+      "id": "feynman-fool",
+      "text": "最も騙してはいけないのは自分自身だ。そして自分は最も騙されやすい。",
+      "original": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+      "author": "リチャード・ファインマン",
+      "authorBio": "20世紀アメリカの物理学者。量子電磁力学の研究でノーベル物理学賞を受賞。明快で型破りな講義でも知られた。",
+      "background": "1974年のカリフォルニア工科大学の卒業講演での言葉。科学的誠実さの第一歩は、自分自身を欺かないことだと説いた。",
+      "source": "https://en.wikiquote.org/wiki/Richard_Feynman",
+      "uncertain": false,
+      "tags": [
+        "誠実",
+        "自己認識",
+        "知恵"
+      ],
+      "addedAt": "2026-07-11",
+      "featuredDate": "2026-07-11"
+    },
     {
       "id": "pasteur-chance",
       "text": "幸運は、準備のできた者にのみ訪れる。",
