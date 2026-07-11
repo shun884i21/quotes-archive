@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "sagan-somewhere",
-      "text": "どこかで、信じられないようなことが、知られるのを待っている。",
-      "original": "Somewhere, something incredible is waiting to be known.",
-      "author": "カール・セーガン",
-      "authorBio": "20世紀アメリカの天文学者・作家。宇宙科学を一般に広める番組『コスモス』で知られ、科学の魅力を多くの人に伝えた。",
-      "background": "宇宙にはまだ解き明かされていない驚異が無数にあるという、探究心と好奇心をかき立てる言葉。",
-      "source": "https://en.wikiquote.org/wiki/Carl_Sagan",
-      "uncertain": true,
-      "tags": [
-        "好奇心",
-        "探究",
-        "希望"
-      ]
-    },
-    {
       "id": "plato-beginning",
       "text": "始めることは、物事の最も重要な部分である。",
       "original": "The beginning is the most important part of the work.",

@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-11T08:54:16+09:00",
+  "updatedAt": "2026-07-12T08:49:17+09:00",
   "quotes": [
+    {
+      "id": "sagan-somewhere",
+      "text": "どこかで、信じられないようなことが、知られるのを待っている。",
+      "original": "Somewhere, something incredible is waiting to be known.",
+      "author": "カール・セーガン",
+      "authorBio": "20世紀アメリカの天文学者・作家。宇宙科学を一般に広める番組『コスモス』で知られ、科学の魅力を多くの人に伝えた。",
+      "background": "宇宙にはまだ解き明かされていない驚異が無数にあるという、探究心と好奇心をかき立てる言葉。",
+      "source": "https://en.wikiquote.org/wiki/Carl_Sagan",
+      "uncertain": true,
+      "tags": [
+        "好奇心",
+        "探究",
+        "希望"
+      ],
+      "addedAt": "2026-07-12",
+      "featuredDate": "2026-07-12"
+    },
     {
       "id": "feynman-fool",
       "text": "最も騙してはいけないのは自分自身だ。そして自分は最も騙されやすい。",
