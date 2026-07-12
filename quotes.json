@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-12T08:49:17+09:00",
+  "updatedAt": "2026-07-13T08:47:23+09:00",
   "quotes": [
+    {
+      "id": "plato-beginning",
+      "text": "始めることは、物事の最も重要な部分である。",
+      "original": "The beginning is the most important part of the work.",
+      "author": "プラトン",
+      "authorBio": "古代ギリシアの哲学者。ソクラテスの弟子であり、アリストテレスの師。『国家』などの対話篇を著し、西洋哲学の礎を築いた。",
+      "background": "『国家』の一節。何事も最初の一歩と土台が肝心であるという、教育や物事の本質についての洞察。",
+      "source": "https://en.wikiquote.org/wiki/Plato",
+      "uncertain": false,
+      "tags": [
+        "行動",
+        "始まり",
+        "基礎"
+      ],
+      "addedAt": "2026-07-13",
+      "featuredDate": "2026-07-13"
+    },
     {
       "id": "sagan-somewhere",
       "text": "どこかで、信じられないようなことが、知られるのを待っている。",
