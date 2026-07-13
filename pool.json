@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "laozi-journey",
-      "text": "千里の道も一歩から始まる。",
-      "original": "A journey of a thousand miles begins with a single step.",
-      "author": "老子",
-      "authorBio": "古代中国の思想家。道教の祖とされ、無為自然を説いた『道徳経』の著者と伝えられる。",
-      "background": "『道徳経』第六十四章に由来する有名な言葉。どんなに遠大な目標も、目の前の小さな一歩から始まることを説く。",
-      "source": "https://en.wikiquote.org/wiki/Laozi",
-      "uncertain": false,
-      "tags": [
-        "行動",
-        "継続",
-        "始まり"
-      ]
-    },
-    {
       "id": "sunzi-know-enemy",
       "text": "彼を知り己を知れば、百戦して殆うからず。",
       "original": "",
