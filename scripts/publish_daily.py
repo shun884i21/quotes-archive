@@ -4,6 +4,7 @@
 GitHub Actions から実行される。外部依存なし（標準ライブラリのみ）。
 DRY_RUN=1 を付けるとファイルを書き換えず内容だけ表示する。
 """
+import difflib
 import json
 import os
 import sys
@@ -28,6 +29,23 @@ def save(path, data):
         f.write("\n")
 
 
+def norm(s):
+    """比較用に空白と句読点を除いて正規化する。"""
+    return "".join(ch for ch in (s or "") if ch not in " \t\n\r、。，．,.!！?？」「『』\"'")
+
+
+def is_duplicate(item, quotes):
+    """公開済みの格言と同一・実質同一(訳のゆれ)なら True。"""
+    for x in quotes:
+        if item.get("id") == x.get("id"):
+            return True
+        for key, threshold in (("text", 0.75), ("original", 0.85)):
+            a, b = norm(item.get(key)), norm(x.get(key))
+            if a and b and difflib.SequenceMatcher(None, a, b).ratio() >= threshold:
+                return True
+    return False
+
+
 def main():
     jst = datetime.timezone(datetime.timedelta(hours=9))
     now = datetime.datetime.now(jst)  # JST
@@ -44,6 +62,22 @@ def main():
 
     pool = load(POOL, {"quotes": []})
     pq = pool.get("quotes", [])
+
+    # 公開済みと同じ・実質同じ格言は在庫から除いておく（重複公開の防止）
+    kept = []
+    removed = 0
+    for item in pq:
+        if is_duplicate(item, quotes):
+            print(u"重複のため在庫から除去: {} - {} ...".format(
+                item.get("author"), (item.get("text") or "")[:30]))
+            removed += 1
+        else:
+            kept.append(item)
+    pq = kept
+    if removed and not DRY:
+        pool["quotes"] = pq
+        save(POOL, pool)
+
     if not pq:
         print("プールが空です。新規追加なし（アプリはアーカイブから日替わり表示を継続）。")
         return
