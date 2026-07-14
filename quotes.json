@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-14T08:49:02+09:00",
+  "updatedAt": "2026-07-15T08:47:04+09:00",
   "quotes": [
+    {
+      "id": "sunzi-know-enemy",
+      "text": "彼を知り己を知れば、百戦して殆うからず。",
+      "original": "",
+      "author": "孫子",
+      "authorBio": "古代中国・春秋時代の軍事思想家。兵法書『孫子』の著者とされ、その戦略論は時代や分野を超えて読み継がれている。",
+      "background": "『孫子』謀攻篇の一節。相手と自分の両方を正しく理解していれば、何度戦っても危険はないという、洞察と準備の重要性を説く。",
+      "source": "https://ja.wikiquote.org/wiki/孫子",
+      "uncertain": false,
+      "tags": [
+        "戦略",
+        "自己認識",
+        "知恵"
+      ],
+      "addedAt": "2026-07-15",
+      "featuredDate": "2026-07-15"
+    },
     {
       "id": "laozi-journey",
       "text": "千里の道も一歩から始まる。",
