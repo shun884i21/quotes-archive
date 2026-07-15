@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-15T08:47:04+09:00",
+  "updatedAt": "2026-07-16T08:54:12+09:00",
   "quotes": [
+    {
+      "id": "seneca-luck",
+      "text": "幸運とは、準備が機会と出会ったときに生まれる。",
+      "original": "Luck is what happens when preparation meets opportunity.",
+      "author": "セネカ",
+      "authorBio": "古代ローマのストア派哲学者・政治家。皇帝ネロの師でもあった。人生や時間の使い方についての随筆を多く残した。",
+      "background": "ストア哲学の実践的な人生観を表す言葉として広く伝わる。日頃の準備があってこそ好機を活かせる、という教え。",
+      "source": "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "uncertain": true,
+      "tags": [
+        "準備",
+        "機会",
+        "成功"
+      ],
+      "addedAt": "2026-07-16",
+      "featuredDate": "2026-07-16"
+    },
     {
       "id": "sunzi-know-enemy",
       "text": "彼を知り己を知れば、百戦して殆うからず。",
