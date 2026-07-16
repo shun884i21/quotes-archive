@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "aurelius-thoughts",
-      "text": "人生は、あなたの思考がつくり上げるものである。",
-      "original": "The happiness of your life depends upon the quality of your thoughts.",
-      "author": "マルクス・アウレリウス",
-      "authorBio": "古代ローマ皇帝にして、ストア派の哲学者。激動の治世の中で自省録『自省録』を綴り、「哲人皇帝」と称された。",
-      "background": "『自省録』に通じる思想。人生の幸福は外的環境より、自分の思考のあり方で決まるというストア哲学の核心を示す。",
-      "source": "https://en.wikiquote.org/wiki/Marcus_Aurelius",
-      "uncertain": true,
-      "tags": [
-        "思考",
-        "幸福",
-        "人生"
-      ]
-    },
-    {
       "id": "nietzsche-why",
       "text": "なぜ生きるかを知っている者は、ほとんどあらゆる状況に耐えられる。",
       "original": "He who has a why to live for can bear almost any how.",
