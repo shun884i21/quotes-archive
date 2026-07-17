@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "nietzsche-why",
-      "text": "なぜ生きるかを知っている者は、ほとんどあらゆる状況に耐えられる。",
-      "original": "He who has a why to live for can bear almost any how.",
-      "author": "フリードリヒ・ニーチェ",
-      "authorBio": "19世紀ドイツの哲学者。「神は死んだ」「超人」などの概念で知られ、既成の価値観を根底から問い直した。",
-      "background": "『偶像の黄昏』に記された言葉。人生の目的(なぜ)を持つ者は、どんな困難(どのように)にも耐えられるという、意味の力を説く。",
-      "source": "https://en.wikiquote.org/wiki/Friedrich_Nietzsche",
-      "uncertain": false,
-      "tags": [
-        "意味",
-        "逆境",
-        "強さ"
-      ]
-    },
-    {
       "id": "voltaire-perfect-good",
       "text": "完璧は、善の敵である。",
       "original": "The best is the enemy of the good.",
