@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-18T08:46:59+09:00",
+  "updatedAt": "2026-07-19T08:47:43+09:00",
   "quotes": [
+    {
+      "id": "voltaire-perfect-good",
+      "text": "完璧は、善の敵である。",
+      "original": "The best is the enemy of the good.",
+      "author": "ヴォルテール",
+      "authorBio": "18世紀フランスの啓蒙思想家・作家。鋭い風刺と理性で、自由や寛容を訴え、フランス革命に思想的影響を与えた。",
+      "background": "完璧を求めすぎると、十分に良いものさえ実現できなくなる、という戒め。行動や決断を促す言葉として引用される。",
+      "source": "https://en.wikiquote.org/wiki/Voltaire",
+      "uncertain": false,
+      "tags": [
+        "行動",
+        "完璧主義",
+        "知恵"
+      ],
+      "addedAt": "2026-07-19",
+      "featuredDate": "2026-07-19"
+    },
     {
       "id": "nietzsche-why",
       "text": "なぜ生きるかを知っている者は、ほとんどあらゆる状況に耐えられる。",

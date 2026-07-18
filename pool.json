@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "voltaire-perfect-good",
-      "text": "完璧は、善の敵である。",
-      "original": "The best is the enemy of the good.",
-      "author": "ヴォルテール",
-      "authorBio": "18世紀フランスの啓蒙思想家・作家。鋭い風刺と理性で、自由や寛容を訴え、フランス革命に思想的影響を与えた。",
-      "background": "完璧を求めすぎると、十分に良いものさえ実現できなくなる、という戒め。行動や決断を促す言葉として引用される。",
-      "source": "https://en.wikiquote.org/wiki/Voltaire",
-      "uncertain": false,
-      "tags": [
-        "行動",
-        "完璧主義",
-        "知恵"
-      ]
-    },
-    {
       "id": "emerson-what-lies-within",
       "text": "背後にあるものも、前方にあるものも、私たちの内にあるものに比べれば些細なことだ。",
       "original": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
