@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-19T08:47:43+09:00",
+  "updatedAt": "2026-07-20T08:52:17+09:00",
   "quotes": [
+    {
+      "id": "emerson-what-lies-within",
+      "text": "背後にあるものも、前方にあるものも、私たちの内にあるものに比べれば些細なことだ。",
+      "original": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "ラルフ・ワルド・エマーソン",
+      "authorBio": "19世紀アメリカの思想家・詩人。自己信頼と個人の精神の力を説き、アメリカ思想に大きな影響を与えた超越主義の中心人物。",
+      "background": "過去や未来の出来事よりも、自分の内に秘めた力こそが人生を決めるという、自己信頼の思想を凝縮した言葉。",
+      "source": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
+      "uncertain": true,
+      "tags": [
+        "自己信頼",
+        "内面",
+        "強さ"
+      ],
+      "addedAt": "2026-07-20",
+      "featuredDate": "2026-07-20"
+    },
     {
       "id": "voltaire-perfect-good",
       "text": "完璧は、善の敵である。",
