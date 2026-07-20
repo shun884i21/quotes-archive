@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "thoreau-castles",
-      "text": "空中に楼閣を築いたのなら、それは無駄にはならない。今度はその下に土台を築けばよい。",
-      "original": "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.",
-      "author": "ヘンリー・デイヴィッド・ソロー",
-      "authorBio": "19世紀アメリカの思想家・作家。森での自給自足の生活を綴った『ウォールデン 森の生活』で知られる。",
-      "background": "『ウォールデン』の結びにある言葉。夢を描くこと自体は無駄ではなく、あとは現実の土台を築けばよいと励ます。",
-      "source": "https://en.wikiquote.org/wiki/Henry_David_Thoreau",
-      "uncertain": false,
-      "tags": [
-        "夢",
-        "行動",
-        "希望"
-      ]
-    },
-    {
       "id": "angelou-feel",
       "text": "人はあなたの言ったことやしたことは忘れる。だが、あなたにどう感じさせられたかは決して忘れない。",
       "original": "People will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
