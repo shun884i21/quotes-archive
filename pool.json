@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "wilde-yourself",
-      "text": "自分自身であれ。他の者はすでに他の誰かに取られているのだから。",
-      "original": "Be yourself; everyone else is already taken.",
-      "author": "オスカー・ワイルド",
-      "authorBio": "19世紀アイルランド出身の作家・劇作家。『ドリアン・グレイの肖像』などで知られ、機知に富んだ警句の名手だった。",
-      "background": "他人を真似るより、唯一無二の自分自身を生きることの価値を、彼らしいユーモアで表現した言葉。",
-      "source": "https://en.wikiquote.org/wiki/Oscar_Wilde",
-      "uncertain": true,
-      "tags": [
-        "個性",
-        "自分らしさ",
-        "人生"
-      ]
-    },
-    {
       "id": "saintexupery-essential",
       "text": "心で見なくてはものはよく見えない。大切なことは目に見えない。",
       "original": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
