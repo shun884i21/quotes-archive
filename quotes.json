@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-23T08:57:22+09:00",
+  "updatedAt": "2026-07-24T08:55:09+09:00",
   "quotes": [
+    {
+      "id": "saintexupery-essential",
+      "text": "心で見なくてはものはよく見えない。大切なことは目に見えない。",
+      "original": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
+      "author": "アントワーヌ・ド・サン=テグジュペリ",
+      "authorBio": "20世紀フランスの作家・飛行士。郵便飛行のパイロットとして働きながら執筆し、『星の王子さま』で世界中に愛された。",
+      "background": "『星の王子さま』でキツネが王子に贈る有名な言葉。本当に大切なものは、目ではなく心でしか捉えられないと教える。",
+      "source": "https://en.wikiquote.org/wiki/Antoine_de_Saint-Exupéry",
+      "uncertain": false,
+      "tags": [
+        "愛",
+        "本質",
+        "人生"
+      ],
+      "addedAt": "2026-07-24",
+      "featuredDate": "2026-07-24"
+    },
     {
       "id": "wilde-yourself",
       "text": "自分自身であれ。他の者はすでに他の誰かに取られているのだから。",
