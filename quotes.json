@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-24T08:55:09+09:00",
+  "updatedAt": "2026-07-25T08:58:09+09:00",
   "quotes": [
+    {
+      "id": "teresa-small-things",
+      "text": "私たちは大きなことはできません。小さなことを大きな愛をもって行うだけです。",
+      "original": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "マザー・テレサ",
+      "authorBio": "20世紀、インドのコルカタで貧しい人々や病者に生涯を捧げた修道女。「神の愛の宣教者会」を創設し、ノーベル平和賞を受賞した。",
+      "background": "壮大な行いよりも、目の前の小さな奉仕を深い愛をもって行うことの尊さを説いた、彼女の活動の根幹を表す言葉。",
+      "source": "https://en.wikiquote.org/wiki/Mother_Teresa",
+      "uncertain": false,
+      "tags": [
+        "愛",
+        "奉仕",
+        "思いやり"
+      ],
+      "addedAt": "2026-07-25",
+      "featuredDate": "2026-07-25"
+    },
     {
       "id": "saintexupery-essential",
       "text": "心で見なくてはものはよく見えない。大切なことは目に見えない。",
