@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-25T08:58:09+09:00",
+  "updatedAt": "2026-07-26T08:54:55+09:00",
   "quotes": [
+    {
+      "id": "mlk-staircase",
+      "text": "信じて、最初の一段を昇りなさい。階段の全体が見えなくてもよいのだ。",
+      "original": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "マーティン・ルーサー・キング・ジュニア",
+      "authorBio": "20世紀アメリカの牧師・公民権運動の指導者。非暴力で人種差別撤廃を訴え、「私には夢がある」の演説で知られる。ノーベル平和賞受賞。",
+      "background": "先が見えない状況でも、信念をもって踏み出すことの大切さを説いた言葉。困難な公民権運動を率いた彼の姿勢を映す。",
+      "source": "https://en.wikiquote.org/wiki/Martin_Luther_King_Jr.",
+      "uncertain": false,
+      "tags": [
+        "信念",
+        "勇気",
+        "行動"
+      ],
+      "addedAt": "2026-07-26",
+      "featuredDate": "2026-07-26"
+    },
     {
       "id": "teresa-small-things",
       "text": "私たちは大きなことはできません。小さなことを大きな愛をもって行うだけです。",
