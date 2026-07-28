@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "franklin-invest-knowledge",
-      "text": "知識への投資は、常に最高の利息を生む。",
-      "original": "An investment in knowledge pays the best interest.",
-      "author": "ベンジャミン・フランクリン",
-      "authorBio": "18世紀アメリカの政治家・科学者・実業家。建国の父の一人で、雷の電気的性質を証明したことでも知られる多才な人物。",
-      "background": "学ぶことこそが最も確実で実りある投資である、という彼の実利的かつ生涯学習を重んじる思想を表す言葉。",
-      "source": "https://en.wikiquote.org/wiki/Benjamin_Franklin",
-      "uncertain": false,
-      "tags": [
-        "学び",
-        "成長",
-        "自己投資"
-      ]
-    },
-    {
       "id": "napoleon-impossible",
       "text": "「不可能」という言葉は、愚か者の辞書にしかない。",
       "original": "Impossible is a word to be found only in the dictionary of fools.",
