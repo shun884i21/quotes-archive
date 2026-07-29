@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-07-27T08:56:01+09:00",
+  "updatedAt": "2026-07-29T08:54:46+09:00",
   "quotes": [
+    {
+      "id": "franklin-invest-knowledge",
+      "text": "知識への投資は、常に最高の利息を生む。",
+      "original": "An investment in knowledge pays the best interest.",
+      "author": "ベンジャミン・フランクリン",
+      "authorBio": "18世紀アメリカの政治家・科学者・実業家。建国の父の一人で、雷の電気的性質を証明したことでも知られる多才な人物。",
+      "background": "学ぶことこそが最も確実で実りある投資である、という彼の実利的かつ生涯学習を重んじる思想を表す言葉。",
+      "source": "https://en.wikiquote.org/wiki/Benjamin_Franklin",
+      "uncertain": false,
+      "tags": [
+        "学び",
+        "成長",
+        "自己投資"
+      ],
+      "addedAt": "2026-07-29",
+      "featuredDate": "2026-07-29"
+    },
+    {
+      "id": "troosevelt-arena",
+      "text": "栄誉は、実際に闘技場に立つ者のものだ。批評する者のものではない。",
+      "original": "It is not the critic who counts... The credit belongs to the man who is actually in the arena.",
+      "author": "セオドア・ルーズベルト",
+      "authorBio": "アメリカ合衆国第26代大統領。改革者として独占企業の規制や自然保護に尽力。病弱な少年時代を鍛錬で克服した行動の人。",
+      "background": "1910年の演説「共和国の市民」の一節。安全な場所から批判する者ではなく、泥にまみれて挑戦する者を称えた言葉。",
+      "source": "https://en.wikiquote.org/wiki/Theodore_Roosevelt",
+      "uncertain": false,
+      "tags": [
+        "挑戦",
+        "勇気",
+        "行動"
+      ],
+      "addedAt": "2026-07-28",
+      "featuredDate": "2026-07-28"
+    },
     {
       "id": "jfk-ask-not",
       "text": "国があなたに何をしてくれるかではなく、あなたが国に何をできるかを問いなさい。",
