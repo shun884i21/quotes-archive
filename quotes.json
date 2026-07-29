@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-29T08:54:46+09:00",
+  "updatedAt": "2026-07-30T08:56:53+09:00",
   "quotes": [
+    {
+      "id": "napoleon-impossible",
+      "text": "「不可能」という言葉は、愚か者の辞書にしかない。",
+      "original": "Impossible is a word to be found only in the dictionary of fools.",
+      "author": "ナポレオン・ボナパルト",
+      "authorBio": "18〜19世紀フランスの軍人・政治家。革命後の混乱からフランス皇帝に上り詰め、ヨーロッパを席巻した。",
+      "background": "困難を前にしても不可能と決めつけない、彼の不屈の行動哲学を表す言葉として広く伝わる。",
+      "source": "https://en.wikiquote.org/wiki/Napoleon",
+      "uncertain": true,
+      "tags": [
+        "挑戦",
+        "意志",
+        "勇気"
+      ],
+      "addedAt": "2026-07-30",
+      "featuredDate": "2026-07-30"
+    },
     {
       "id": "franklin-invest-knowledge",
       "text": "知識への投資は、常に最高の利息を生む。",
