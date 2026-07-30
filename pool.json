@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "douglass-struggle",
-      "text": "闘いなくして進歩はない。",
-      "original": "If there is no struggle, there is no progress.",
-      "author": "フレデリック・ダグラス",
-      "authorBio": "19世紀アメリカの奴隷解放運動家・著述家。自ら奴隷の身から脱し、雄弁と執筆で奴隷制廃止を訴えた。",
-      "background": "1857年の演説の一節。権利や自由は、要求し闘う者にしか得られないという、彼の苦難の人生から生まれた信念。",
-      "source": "https://en.wikiquote.org/wiki/Frederick_Douglass",
-      "uncertain": false,
-      "tags": [
-        "努力",
-        "信念",
-        "逆境"
-      ]
-    },
-    {
       "id": "parks-fear",
       "text": "恐れを抱かないと決めたとき、人は自由になれる。",
       "original": "I have learned over the years that when one's mind is made up, this diminishes fear.",
