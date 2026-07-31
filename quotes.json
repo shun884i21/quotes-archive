@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-31T08:57:34+09:00",
+  "updatedAt": "2026-08-01T08:56:41+09:00",
   "quotes": [
+    {
+      "id": "parks-fear",
+      "text": "恐れを抱かないと決めたとき、人は自由になれる。",
+      "original": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+      "author": "ローザ・パークス",
+      "authorBio": "20世紀アメリカの公民権運動家。バスで白人に席を譲ることを拒んだ行動が、モンゴメリー・バス・ボイコット運動の発端となった。",
+      "background": "心を決めれば恐れは小さくなる、と語った言葉。たった一人の静かな勇気が大きな変化を生んだ彼女らしい。",
+      "source": "https://en.wikiquote.org/wiki/Rosa_Parks",
+      "uncertain": false,
+      "tags": [
+        "勇気",
+        "信念",
+        "自由"
+      ],
+      "addedAt": "2026-08-01",
+      "featuredDate": "2026-08-01"
+    },
     {
       "id": "douglass-struggle",
       "text": "闘いなくして進歩はない。",
