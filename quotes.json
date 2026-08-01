@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-01T08:56:41+09:00",
+  "updatedAt": "2026-08-02T08:51:58+09:00",
   "quotes": [
+    {
+      "id": "tagore-cross-sea",
+      "text": "ただ水を見つめているだけでは、海を渡ることはできない。",
+      "original": "You can't cross the sea merely by standing and staring at the water.",
+      "author": "ラビンドラナート・タゴール",
+      "authorBio": "19〜20世紀インドの詩人・思想家。アジア初のノーベル文学賞を受賞。詩集『ギタンジャリ』で知られ、教育にも尽力した。",
+      "background": "眺めて思い悩むより、まず行動を起こすことの大切さを説いた言葉。詩的な比喩に彼の人生観がにじむ。",
+      "source": "https://en.wikiquote.org/wiki/Rabindranath_Tagore",
+      "uncertain": false,
+      "tags": [
+        "行動",
+        "挑戦",
+        "決断"
+      ],
+      "addedAt": "2026-08-02",
+      "featuredDate": "2026-08-02"
+    },
     {
       "id": "parks-fear",
       "text": "恐れを抱かないと決めたとき、人は自由になれる。",
