@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-04T09:03:09+09:00",
+  "updatedAt": "2026-08-05T08:58:20+09:00",
   "quotes": [
+    {
+      "id": "ali-count-days",
+      "text": "日々を数えるな。日々を意味あるものにせよ。",
+      "original": "Don't count the days, make the days count.",
+      "author": "モハメド・アリ",
+      "authorBio": "20世紀アメリカの伝説的プロボクサー。卓越した技と強い信念を持ち、リング外でも信条のために闘った「世紀のヒーロー」。",
+      "background": "ただ時間が過ぎるのを待つのではなく、一日一日を価値あるものにせよと説いた言葉。彼の生き様を象徴する。",
+      "source": "https://en.wikiquote.org/wiki/Muhammad_Ali",
+      "uncertain": true,
+      "tags": [
+        "時間",
+        "人生",
+        "情熱"
+      ],
+      "addedAt": "2026-08-05",
+      "featuredDate": "2026-08-05"
+    },
     {
       "id": "brucelee-water",
       "text": "水のようになれ、友よ。",
