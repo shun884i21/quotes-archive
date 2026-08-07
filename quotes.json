@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-06T08:54:44+09:00",
+  "updatedAt": "2026-08-07T10:40:31+09:00",
   "quotes": [
+    {
+      "id": "ford-think-can",
+      "text": "できると思っても、できないと思っても、あなたは正しい。",
+      "original": "Whether you think you can, or you think you can't – you're right.",
+      "author": "ヘンリー・フォード",
+      "authorBio": "19〜20世紀アメリカの実業家。フォード・モーターを創業し、流れ作業による大量生産で自動車を大衆のものにした。",
+      "background": "自分の可能性をどう信じるかが、結果を大きく左右するという心構えを説いた言葉。",
+      "source": "https://en.wikiquote.org/wiki/Henry_Ford",
+      "uncertain": true,
+      "tags": [
+        "自己信頼",
+        "挑戦",
+        "心構え"
+      ],
+      "addedAt": "2026-08-07",
+      "featuredDate": "2026-08-07"
+    },
     {
       "id": "pele-success",
       "text": "成功は偶然ではない。努力、忍耐、学習、犠牲、そして何よりも、その仕事への愛から生まれる。",
