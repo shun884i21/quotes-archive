@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "ieyasu-heavy-load",
-      "text": "人の一生は、重荷を負うて遠き道を行くがごとし。急ぐべからず。",
-      "original": "",
-      "author": "徳川家康",
-      "authorBio": "戦国時代から江戸時代初期の武将。江戸幕府を開き、260年以上続く泰平の世の礎を築いた。忍耐強さで知られる。",
-      "background": "「東照公御遺訓」として伝わる言葉。人生は重荷を背負って歩む長い道のようなもので、焦らず着実に進めと説く。後世の作とする説もある。",
-      "source": "https://ja.wikiquote.org/wiki/徳川家康",
-      "uncertain": true,
-      "tags": [
-        "忍耐",
-        "人生",
-        "継続"
-      ]
-    },
-    {
       "id": "nobunaga-zehi",
       "text": "是非に及ばず。",
       "original": "",
