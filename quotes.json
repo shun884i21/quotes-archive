@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-13T08:34:32+09:00",
+  "updatedAt": "2026-08-14T08:34:42+09:00",
   "quotes": [
+    {
+      "id": "nobunaga-zehi",
+      "text": "是非に及ばず。",
+      "original": "",
+      "author": "織田信長",
+      "authorBio": "戦国時代の武将。革新的な戦略と政策で天下統一に最も近づいたが、本能寺の変で家臣・明智光秀に討たれた。",
+      "background": "本能寺の変で謀反が光秀の手によるものと知った際の言葉と『信長公記』に伝わる。是非を論じても始まらない、覚悟を決めるという潔さを表す。",
+      "source": "https://ja.wikiquote.org/wiki/織田信長",
+      "uncertain": false,
+      "tags": [
+        "覚悟",
+        "決断",
+        "強さ"
+      ],
+      "addedAt": "2026-08-14",
+      "featuredDate": "2026-08-14"
+    },
     {
       "id": "ieyasu-heavy-load",
       "text": "人の一生は、重荷を負うて遠き道を行くがごとし。急ぐべからず。",
