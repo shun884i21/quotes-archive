@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-14T08:34:42+09:00",
+  "updatedAt": "2026-08-15T08:15:49+09:00",
   "quotes": [
+    {
+      "id": "hideyoshi-dream",
+      "text": "露と落ち 露と消えにし 我が身かな 浪速のことも 夢のまた夢",
+      "original": "",
+      "author": "豊臣秀吉",
+      "authorBio": "戦国時代の武将。農民の出から天下人にまで上り詰めた立身出世の象徴的存在。織田信長の死後、天下統一を成し遂げた。",
+      "background": "秀吉の辞世の句と伝わる。栄華を極めた人生も、振り返れば露のようにはかない夢のまた夢だったと詠む。",
+      "source": "https://ja.wikiquote.org/wiki/豊臣秀吉",
+      "uncertain": false,
+      "tags": [
+        "人生",
+        "無常",
+        "謙虚"
+      ],
+      "addedAt": "2026-08-15",
+      "featuredDate": "2026-08-15"
+    },
     {
       "id": "nobunaga-zehi",
       "text": "是非に及ばず。",
