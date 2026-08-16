@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-16T08:13:50+09:00",
+  "updatedAt": "2026-08-17T08:13:59+09:00",
   "quotes": [
+    {
+      "id": "masamune-guest",
+      "text": "この世に客に来たと思えば、何の苦もなし。",
+      "original": "",
+      "author": "伊達政宗",
+      "authorBio": "戦国時代から江戸初期の武将。東北・仙台藩の礎を築いた。隻眼の勇将「独眼竜」として知られ、文化人としても優れていた。",
+      "background": "政宗の遺訓と伝わる一節。人生を旅の客として気楽に受けとめれば、思い悩むことはないという達観を示す。",
+      "source": "https://ja.wikiquote.org/wiki/伊達政宗",
+      "uncertain": true,
+      "tags": [
+        "人生",
+        "心構え",
+        "達観"
+      ],
+      "addedAt": "2026-08-17",
+      "featuredDate": "2026-08-17"
+    },
     {
       "id": "shingen-people-castle",
       "text": "人は城、人は石垣、人は堀、情けは味方、仇は敵なり。",
