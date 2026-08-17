@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-17T08:13:59+09:00",
+  "updatedAt": "2026-08-18T08:16:50+09:00",
   "quotes": [
+    {
+      "id": "musashi-no-regret",
+      "text": "我、事において後悔せず。",
+      "original": "",
+      "author": "宮本武蔵",
+      "authorBio": "江戸時代初期の剣豪・兵法家。生涯六十余度の勝負に敗れなかったと伝わり、二刀流の二天一流を開いた。『五輪書』の著者。",
+      "background": "武蔵が死の直前に著した自戒の書『独行道』の一節。一度決めて行ったことを後悔しない、という覚悟の生き方を表す。",
+      "source": "https://ja.wikiquote.org/wiki/宮本武蔵",
+      "uncertain": false,
+      "tags": [
+        "覚悟",
+        "決断",
+        "信念"
+      ],
+      "addedAt": "2026-08-18",
+      "featuredDate": "2026-08-18"
+    },
     {
       "id": "masamune-guest",
       "text": "この世に客に来たと思えば、何の苦もなし。",
