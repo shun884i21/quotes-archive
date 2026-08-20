@@ -179,6 +179,456 @@
         "努力",
         "成長"
       ]
+    },
+    {
+      "id": "hugo-future-names",
+      "text": "未来は多くの名を持つ。弱き者には「不可能」、臆病者には「未知」。しかし勇気ある者には「理想」である。",
+      "original": "The future has several names. For the weak, it is the impossible; for the fainthearted, it is the unknown; for the thoughtful and valiant, it is the ideal.",
+      "author": "ヴィクトル・ユゴー",
+      "authorBio": "19世紀フランスの文豪。『レ・ミゼラブル』『ノートルダム・ド・パリ』を著し、亡命生活の中でも自由と正義を訴え続けた。",
+      "background": "講演で語ったと伝えられる言葉。未来をどう名づけるかは、その人の生き方が決めるという彼のロマン主義精神を表す。",
+      "source": "https://en.wikiquote.org/wiki/Victor_Hugo",
+      "uncertain": true,
+      "tags": [
+        "未来",
+        "理想",
+        "勇気"
+      ]
+    },
+    {
+      "id": "dickens-no-tomorrow",
+      "text": "今日できることを、決して明日に延ばすな。先延ばしは時間泥棒である。",
+      "original": "Never do tomorrow what you can do today. Procrastination is the thief of time.",
+      "author": "チャールズ・ディケンズ",
+      "authorBio": "19世紀イギリスの国民的作家。『クリスマス・キャロル』『二都物語』など、庶民の哀歓を描いた作品で愛される。",
+      "background": "『デイヴィッド・コパフィールド』でミコーバー氏が語る処世訓。自身も貧困から身を起こしたディケンズらしい実践的な教え。",
+      "source": "https://en.wikiquote.org/wiki/Charles_Dickens",
+      "uncertain": false,
+      "tags": [
+        "行動",
+        "時間",
+        "習慣"
+      ]
+    },
+    {
+      "id": "dostoevsky-happiness",
+      "text": "人間が不幸なのは、自分が幸福であることを知らないからだ。ただそれだけの理由なのだ。",
+      "original": "Man is unhappy because he doesn't know he's happy. It's only that.",
+      "author": "フョードル・ドストエフスキー",
+      "authorBio": "19世紀ロシアの文豪。『罪と罰』『カラマーゾフの兄弟』で人間の魂の深淵を描き、世界文学の頂点に立つ。",
+      "background": "『悪霊』の登場人物キリーロフの台詞。死刑寸前から生還した作家自身の、生の一瞬一瞬への感受性がにじむ。",
+      "source": "https://en.wikiquote.org/wiki/Fyodor_Dostoevsky",
+      "uncertain": false,
+      "tags": [
+        "幸福",
+        "気づき",
+        "人生"
+      ]
+    },
+    {
+      "id": "chekhov-knowledge",
+      "text": "知識は、実践に移されてこそ価値がある。",
+      "original": "Knowledge is of no value unless you put it into practice.",
+      "author": "アントン・チェーホフ",
+      "authorBio": "19世紀ロシアの劇作家・短編の名手。『かもめ』『桜の園』を残し、医師としても働きながら執筆を続けた。",
+      "background": "チェーホフの言葉として広く引用される。医業と文学を両立させ、行動の人であった彼の姿勢と重なる。",
+      "source": "https://en.wikiquote.org/wiki/Anton_Chekhov",
+      "uncertain": true,
+      "tags": [
+        "学び",
+        "実践",
+        "行動"
+      ]
+    },
+    {
+      "id": "rilke-live-questions",
+      "text": "いまは問いを生きなさい。そうすれば、いつか遠い日に、気づかぬうちに答えの中へ入り込んでいるだろう。",
+      "original": "Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.",
+      "author": "ライナー・マリア・リルケ",
+      "authorBio": "20世紀初頭のドイツ語圏の詩人。『ドゥイノの悲歌』などで存在の深みを歌い、近代詩に大きな影響を与えた。",
+      "background": "『若き詩人への手紙』の一節。答えを急がず、問いとともに生きることが成熟につながるという助言。",
+      "source": "https://en.wikiquote.org/wiki/Rainer_Maria_Rilke",
+      "uncertain": false,
+      "tags": [
+        "問い",
+        "成長",
+        "人生"
+      ]
+    },
+    {
+      "id": "schweitzer-happiness",
+      "text": "成功が幸福の鍵なのではない。幸福こそが成功の鍵である。",
+      "original": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "アルベルト・シュバイツァー",
+      "authorBio": "神学者・哲学者・医師・オルガン奏者。アフリカのランバレネで医療活動に生涯を捧げ、ノーベル平和賞を受賞した。",
+      "background": "シュバイツァーの言葉として広く伝わる。愛する仕事に打ち込む幸福が結果を生むという、彼の生き方そのもの。",
+      "source": "https://en.wikiquote.org/wiki/Albert_Schweitzer",
+      "uncertain": true,
+      "tags": [
+        "幸福",
+        "成功",
+        "情熱"
+      ]
+    },
+    {
+      "id": "chaplin-looking-down",
+      "text": "下を向いていたら、虹を見つけることは決してできない。",
+      "original": "You'll never find a rainbow if you're looking down.",
+      "author": "チャーリー・チャップリン",
+      "authorBio": "20世紀の喜劇王。『モダン・タイムス』『独裁者』などで笑いと風刺を融合させ、映画史に不滅の足跡を残した。",
+      "background": "チャップリンの言葉として広く親しまれる。貧しい幼少期から世界的スターへ、前を向き続けた人生を映す。",
+      "source": "https://en.wikiquote.org/wiki/Charlie_Chaplin",
+      "uncertain": true,
+      "tags": [
+        "前向き",
+        "希望",
+        "人生"
+      ]
+    },
+    {
+      "id": "kant-sapere-aude",
+      "text": "あえて賢くあれ。自分自身の理性を使う勇気を持て。",
+      "original": "Sapere aude! Have courage to use your own understanding!",
+      "author": "イマヌエル・カント",
+      "authorBio": "18世紀ドイツの哲学者。『純粋理性批判』で近代哲学に革命を起こし、規則正しい生活と散歩でも知られた。",
+      "background": "論文「啓蒙とは何か」(1784)の中心句。他人任せにせず自分の頭で考えることが、人間の成熟だと説いた。",
+      "source": "https://en.wikiquote.org/wiki/Immanuel_Kant",
+      "uncertain": false,
+      "tags": [
+        "理性",
+        "勇気",
+        "自立"
+      ]
+    },
+    {
+      "id": "descartes-divide",
+      "text": "困難は分割せよ。",
+      "original": "Divide each of the difficulties under examination into as many parts as possible, and as might be necessary for its adequate solution.",
+      "author": "ルネ・デカルト",
+      "authorBio": "17世紀フランスの哲学者・数学者。「われ思う、ゆえにわれあり」で知られ、近代合理主義の父と呼ばれる。",
+      "background": "『方法序説』で示した思考の規則のひとつ。大きな問題も小さく分ければ解けるという、時代を超えて通用する知恵。",
+      "source": "https://en.wikiquote.org/wiki/René_Descartes",
+      "uncertain": false,
+      "tags": [
+        "問題解決",
+        "知恵",
+        "仕事"
+      ]
+    },
+    {
+      "id": "pascal-thinking-reed",
+      "text": "人間はひとくきの葦にすぎない。自然のなかで最も弱いものである。だが、それは考える葦である。",
+      "original": "Man is but a reed, the most feeble thing in nature; but he is a thinking reed.",
+      "author": "ブレーズ・パスカル",
+      "authorBio": "17世紀フランスの数学者・物理学者・思想家。確率論や圧力の原理に貢献し、遺稿集『パンセ』を残した。",
+      "background": "『パンセ』の最も有名な断章。人間の弱さと、考えることによる偉大さを同時に見つめた言葉。",
+      "source": "https://en.wikiquote.org/wiki/Blaise_Pascal",
+      "uncertain": false,
+      "tags": [
+        "思考",
+        "人間",
+        "強さ"
+      ]
+    },
+    {
+      "id": "ruth-give-up",
+      "text": "あきらめない奴を、打ち負かすことはできない。",
+      "original": "You just can't beat the person who never gives up.",
+      "author": "ベーブ・ルース",
+      "authorBio": "20世紀アメリカの伝説的野球選手。通算714本塁打を放ち、野球を国民的娯楽に押し上げた「野球の神様」。",
+      "background": "ルースの言葉として広く伝わる。三振の数でもリーグを圧倒しながら本塁打を打ち続けた彼の野球観を表す。",
+      "source": "https://en.wikiquote.org/wiki/Babe_Ruth",
+      "uncertain": true,
+      "tags": [
+        "継続",
+        "信念",
+        "挑戦"
+      ]
+    },
+    {
+      "id": "jordan-failure",
+      "text": "人生で何度も何度も失敗してきた。それこそが、私が成功する理由だ。",
+      "original": "I've failed over and over and over again in my life. And that is why I succeed.",
+      "author": "マイケル・ジョーダン",
+      "authorBio": "NBAで6度の優勝を果たしたバスケットボールの神様。勝負強さと練習量で、スポーツの枠を超えた影響を与えた。",
+      "background": "1997年のナイキのCMでの言葉。外した9000本のシュートと26回の決勝失敗を認めた上で、失敗こそ成功の材料だと語った。",
+      "source": "https://en.wikiquote.org/wiki/Michael_Jordan",
+      "uncertain": false,
+      "tags": [
+        "失敗",
+        "成功",
+        "挑戦"
+      ]
+    },
+    {
+      "id": "earhart-do-it",
+      "text": "最も効果的なやり方は、実際にやってみることだ。",
+      "original": "The most effective way to do it, is to do it.",
+      "author": "アメリア・イアハート",
+      "authorBio": "女性として初めて大西洋単独横断飛行を成し遂げたアメリカの飛行士。世界一周飛行に挑み、太平洋上で消息を絶った。",
+      "background": "イアハートの言葉として広く引用される。「女性には無理」と言われた時代に、飛ぶことで道を切り拓いた彼女の流儀。",
+      "source": "https://en.wikiquote.org/wiki/Amelia_Earhart",
+      "uncertain": true,
+      "tags": [
+        "行動",
+        "挑戦",
+        "勇気"
+      ]
+    },
+    {
+      "id": "hopper-always-done",
+      "text": "いちばん危険な言葉は「今までずっとこうやってきた」だ。",
+      "original": "The most dangerous phrase in the language is, 'We've always done it this way.'",
+      "author": "グレース・ホッパー",
+      "authorBio": "アメリカ海軍准将にして計算機科学の先駆者。プログラミング言語COBOLの開発を主導し、「デバッグ」の逸話でも知られる。",
+      "background": "インタビューで繰り返し語った信条。前例踏襲こそ進歩の敵だとして、生涯新しいやり方に挑み続けた。",
+      "source": "https://en.wikiquote.org/wiki/Grace_Hopper",
+      "uncertain": false,
+      "tags": [
+        "変化",
+        "挑戦",
+        "仕事"
+      ]
+    },
+    {
+      "id": "wangyangming-unity",
+      "text": "知は行の始めなり、行は知の成るなり。",
+      "original": "知者行之始、行者知之成。",
+      "author": "王陽明",
+      "authorBio": "明代中国の思想家・軍人。「知行合一」を唱える陽明学を開き、日本の幕末の志士たちにも大きな影響を与えた。",
+      "background": "『伝習録』の一節。知ることは行動の始まりであり、行動して初めて知は完成するという実践哲学の核心。",
+      "source": "https://ja.wikiquote.org/wiki/王陽明",
+      "uncertain": false,
+      "tags": [
+        "実践",
+        "学び",
+        "行動"
+      ]
+    },
+    {
+      "id": "hippocrates-ars-longa",
+      "text": "人生は短く、術の道は長い。",
+      "original": "Ars longa, vita brevis.",
+      "author": "ヒポクラテス",
+      "authorBio": "古代ギリシアの医師。迷信から医学を切り離し、観察と倫理に基づく医療を確立した「医学の父」。",
+      "background": "『箴言』の冒頭の言葉。学ぶべき道は長く人生は短いからこそ、今すぐ学び始めよという意味で読み継がれる。",
+      "source": "https://en.wikiquote.org/wiki/Hippocrates",
+      "uncertain": false,
+      "tags": [
+        "時間",
+        "学び",
+        "継続"
+      ]
+    },
+    {
+      "id": "yamamoto-yattemise",
+      "text": "やってみせ、言って聞かせて、させてみて、ほめてやらねば、人は動かじ。",
+      "original": "",
+      "author": "山本五十六",
+      "authorBio": "昭和の海軍軍人・連合艦隊司令長官。開戦に反対しながらも指揮を執った。部下思いの人柄と人材育成の言で知られる。",
+      "background": "人の育て方について語ったと伝えられる言葉。上杉鷹山の言葉が源流とも言われる。手本と信頼が人を動かすという教え。",
+      "source": "https://ja.wikiquote.org/wiki/山本五十六",
+      "uncertain": true,
+      "tags": [
+        "育成",
+        "リーダー",
+        "人間関係"
+      ]
+    },
+    {
+      "id": "nitobe-bridge",
+      "text": "われ、太平洋の橋とならん。",
+      "original": "",
+      "author": "新渡戸稲造",
+      "authorBio": "明治から昭和の教育者・思想家。英文『武士道』で日本精神を世界に紹介し、国際連盟事務次長も務めた。",
+      "background": "札幌農学校時代に立てた志として知られる。東洋と西洋の架け橋になるという決意を、生涯かけて実行した。",
+      "source": "https://ja.wikiquote.org/wiki/新渡戸稲造",
+      "uncertain": false,
+      "tags": [
+        "志",
+        "国際",
+        "夢"
+      ]
+    },
+    {
+      "id": "okakura-change",
+      "text": "変化こそが、唯一の永遠である。",
+      "original": "Change is the only Eternal.",
+      "author": "岡倉天心",
+      "authorBio": "明治の美術指導者・思想家。東京美術学校の設立に関わり、英文『茶の本』で東洋の美意識を世界に伝えた。",
+      "background": "『茶の本』の一節。すべては移ろうからこそ美しいという東洋的な世界観を、簡潔な英語で示した。",
+      "source": "https://ja.wikiquote.org/wiki/岡倉天心",
+      "uncertain": false,
+      "tags": [
+        "変化",
+        "永遠",
+        "知恵"
+      ]
+    },
+    {
+      "id": "kukai-hito",
+      "text": "物の興廃は必ず人に由る。人の昇沈は定んで道にあり。",
+      "original": "",
+      "author": "空海",
+      "authorBio": "平安初期の僧で真言宗の開祖。弘法大師の名で親しまれ、書の名人としても、庶民教育の先駆者としても知られる。",
+      "background": "庶民のための学校「綜芸種智院」設立の趣意書の一節。物事の成否は人で決まり、人の成長は学びの道にあるという信念。",
+      "source": "https://ja.wikiquote.org/wiki/空海",
+      "uncertain": false,
+      "tags": [
+        "人材",
+        "学び",
+        "道"
+      ]
+    },
+    {
+      "id": "dogen-setsu",
+      "text": "切に思うことは、必ず遂ぐるなり。",
+      "original": "",
+      "author": "道元",
+      "authorBio": "鎌倉時代の禅僧で曹洞宗の開祖。宋で学んだ禅を日本に伝え、主著『正法眼蔵』で只管打坐の教えを説いた。",
+      "background": "弟子が言行を記した『正法眼蔵随聞記』の一節。切実に思い続けるならば、必ず成し遂げられるという励まし。",
+      "source": "https://ja.wikiquote.org/wiki/道元",
+      "uncertain": false,
+      "tags": [
+        "信念",
+        "継続",
+        "志"
+      ]
+    },
+    {
+      "id": "ryokan-sainan",
+      "text": "災難に逢う時節には災難に逢うがよく候。死ぬる時節には死ぬがよく候。これはこれ災難をのがるる妙法にて候。",
+      "original": "",
+      "author": "良寛",
+      "authorBio": "江戸後期の禅僧・歌人。無欲恬淡な暮らしのなか、子どもたちと手毬をついて遊ぶ姿で愛された。",
+      "background": "大地震で子を亡くした友人への見舞いの手紙の一節。あるがままを受け入れることが苦しみを越える道だと静かに説く。",
+      "source": "https://ja.wikiquote.org/wiki/良寛",
+      "uncertain": false,
+      "tags": [
+        "受容",
+        "達観",
+        "人生"
+      ]
+    },
+    {
+      "id": "mushanokoji-road",
+      "text": "この道より、我を生かす道なし。この道を歩く。",
+      "original": "",
+      "author": "武者小路実篤",
+      "authorBio": "白樺派を代表する小説家・詩人。『友情』『人間万歳』などで人間肯定の文学を貫き、理想郷「新しき村」も実践した。",
+      "background": "色紙に好んで揮毫した言葉。自分を最も生かせる道はこれしかないと定め、迷わず歩む決意を表す。",
+      "source": "https://ja.wikiquote.org/wiki/武者小路実篤",
+      "uncertain": false,
+      "tags": [
+        "道",
+        "信念",
+        "自分らしさ"
+      ]
+    },
+    {
+      "id": "takasugi-omoshiroki",
+      "text": "おもしろき こともなき世を おもしろく",
+      "original": "",
+      "author": "高杉晋作",
+      "authorBio": "幕末の長州藩士。身分を問わない軍隊「奇兵隊」を創設し、維新の流れを決定づけた革命児。27歳で病没。",
+      "background": "辞世と伝わる句(下の句は看病した野村望東尼が付けたとも)。世の面白さは自分の心が決めるという気概を残した。",
+      "source": "https://ja.wikiquote.org/wiki/高杉晋作",
+      "uncertain": true,
+      "tags": [
+        "前向き",
+        "心構え",
+        "人生"
+      ]
+    },
+    {
+      "id": "tsuda-will",
+      "text": "環境より学ぶ意志があればいい。",
+      "original": "",
+      "author": "津田梅子",
+      "authorBio": "明治の教育者。6歳で岩倉使節団とともに渡米し、帰国後は女子英学塾(現・津田塾大学)を創立して女子教育に生涯を捧げた。",
+      "background": "津田梅子の言葉として伝えられる。設備も前例もない時代に学校を興した、環境を言い訳にしない姿勢を表す。",
+      "source": "https://ja.wikiquote.org/wiki/津田梅子",
+      "uncertain": true,
+      "tags": [
+        "学び",
+        "意志",
+        "環境"
+      ]
+    },
+    {
+      "id": "kitasato-netsu",
+      "text": "熱と誠があれば、何事も達成する。",
+      "original": "",
+      "author": "北里柴三郎",
+      "authorBio": "「日本の細菌学の父」。破傷風菌の純粋培養と血清療法を確立し、ペスト菌も発見。北里研究所や慶應医学部を創設した。",
+      "background": "研究と教育の場で繰り返し説いた信条。情熱と誠実さこそが困難な研究を成就させるという、彼の実践哲学。",
+      "source": "https://ja.wikiquote.org/wiki/北里柴三郎",
+      "uncertain": false,
+      "tags": [
+        "情熱",
+        "誠実",
+        "達成"
+      ]
+    },
+    {
+      "id": "yukawa-ippo",
+      "text": "一日生きることは、一歩進むことでありたい。",
+      "original": "",
+      "author": "湯川秀樹",
+      "authorBio": "日本人初のノーベル賞受賞者(物理学賞)。中間子論で素粒子物理学を切り拓き、晩年は平和運動にも尽力した。",
+      "background": "随筆に残した言葉。日々の小さな前進を積み重ねることを自らに課した、研究者としての生活信条。",
+      "source": "https://ja.wikiquote.org/wiki/湯川秀樹",
+      "uncertain": false,
+      "tags": [
+        "成長",
+        "継続",
+        "一歩"
+      ]
+    },
+    {
+      "id": "uemura-adventure",
+      "text": "冒険とは、生きて帰ることである。",
+      "original": "",
+      "author": "植村直己",
+      "authorBio": "世界初の五大陸最高峰登頂を成し遂げた冒険家。犬ぞり単独行で北極点にも到達。厳冬期マッキンリーで消息を絶った。",
+      "background": "著書などで語った冒険観。無謀と冒険を区別し、周到な準備と生還への執念こそ冒険の本質だと説いた。",
+      "source": "https://ja.wikiquote.org/wiki/植村直己",
+      "uncertain": false,
+      "tags": [
+        "冒険",
+        "挑戦",
+        "生きる"
+      ]
+    },
+    {
+      "id": "ando-not-too-late",
+      "text": "人生に遅すぎるということはない。",
+      "original": "",
+      "author": "安藤百福",
+      "authorBio": "日清食品の創業者。48歳で世界初の即席麺「チキンラーメン」を、61歳で「カップヌードル」を生んだ発明起業家。",
+      "background": "事業の失敗で全財産を失った後、自宅裏の小屋で即席麺を開発した経験から語った言葉。何歳からでも始められる。",
+      "source": "https://ja.wikiquote.org/wiki/安藤百福",
+      "uncertain": false,
+      "tags": [
+        "挑戦",
+        "年齢",
+        "再起"
+      ]
+    },
+    {
+      "id": "katsu-criticism",
+      "text": "行いは己のもの、批判は他人のもの、知ったことではない。",
+      "original": "",
+      "author": "勝海舟",
+      "authorBio": "幕末から明治の政治家。咸臨丸で太平洋を渡り、西郷隆盛との会談で江戸無血開城を実現させた。",
+      "background": "晩年の談話録に伝わる処世観。やるべきことをやったら、他人の毀誉褒貶は気にしないという胆力を示す。",
+      "source": "https://ja.wikiquote.org/wiki/勝海舟",
+      "uncertain": true,
+      "tags": [
+        "信念",
+        "批判",
+        "自分軸"
+      ]
     }
   ]
 }
