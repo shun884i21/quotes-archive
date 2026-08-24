@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T08:14:32+09:00",
+  "updatedAt": "2026-08-25T08:17:23+09:00",
   "quotes": [
+    {
+      "id": "tezuka-believe-self",
+      "text": "人を信じよ。しかし、その百倍も自らを信じよ。",
+      "original": "",
+      "author": "手塚治虫",
+      "authorBio": "昭和の漫画家・アニメーション作家。『鉄腕アトム』『火の鳥』などを生み、「漫画の神様」と呼ばれた戦後日本漫画の開拓者。",
+      "background": "手塚の言葉として伝わる一節。他者を信頼することの大切さと同時に、何よりも自分自身を信じる強さを持てと励ます。",
+      "source": "https://ja.wikiquote.org/wiki/手塚治虫",
+      "uncertain": true,
+      "tags": [
+        "自己信頼",
+        "信念",
+        "勇気"
+      ],
+      "addedAt": "2026-08-25",
+      "featuredDate": "2026-08-25"
+    },
     {
       "id": "akiko-golden-nail",
       "text": "劫初より作りいとなむ殿堂に われも黄金の釘ひとつ打つ",
