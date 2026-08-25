@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T08:17:23+09:00",
+  "updatedAt": "2026-08-26T08:19:34+09:00",
   "quotes": [
+    {
+      "id": "kurosawa-bold",
+      "text": "悪魔のように細心に、天使のように大胆に。",
+      "original": "",
+      "author": "黒澤明",
+      "authorBio": "昭和を代表する映画監督。『七人の侍』『羅生門』など世界的名作を生み、「世界のクロサワ」と称された。",
+      "background": "黒澤の創作姿勢を表す言葉として伝わる。準備や細部には悪魔のように緻密に、実行には天使のように大胆に臨めという教え。",
+      "source": "https://ja.wikiquote.org/wiki/黒澤明",
+      "uncertain": true,
+      "tags": [
+        "仕事",
+        "大胆",
+        "緻密"
+      ],
+      "addedAt": "2026-08-26",
+      "featuredDate": "2026-08-26"
+    },
     {
       "id": "tezuka-believe-self",
       "text": "人を信じよ。しかし、その百倍も自らを信じよ。",
