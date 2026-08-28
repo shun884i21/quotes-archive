@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T13:10:54+09:00",
+  "updatedAt": "2026-08-28T15:27:32+09:00",
   "quotes": [
+    {
+      "id": "inamori-formula",
+      "text": "人生・仕事の結果は、考え方×熱意×能力で決まる。",
+      "original": "",
+      "author": "稲盛和夫",
+      "authorBio": "昭和・平成の実業家。京セラとKDDIを創業し、経営破綻した日本航空の再建も果たした。哲学に基づく経営で知られる。",
+      "background": "稲盛の経営哲学の核となる方程式。能力や熱意だけでなく、根底にある「考え方」(人間性や姿勢)が結果を大きく左右すると説く。",
+      "source": "https://ja.wikiquote.org/wiki/稲盛和夫",
+      "uncertain": false,
+      "tags": [
+        "仕事",
+        "心構え",
+        "成功"
+      ],
+      "addedAt": "2026-08-28",
+      "featuredDate": "2026-08-28"
+    },
     {
       "id": "taro-explosion",
       "text": "芸術は爆発だ。",
