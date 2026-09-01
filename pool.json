@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "sontoku-small",
-      "text": "小を積みて大と為す。",
-      "original": "",
-      "author": "二宮尊徳",
-      "authorBio": "江戸時代後期の農政家・思想家。荒廃した多くの村々を復興させた。薪を背負って読書する少年像(二宮金次郎)で知られる。",
-      "background": "尊徳の思想「積小為大」を表す言葉。小さな努力や蓄積を続けることが、やがて大きな成果につながるという報徳の教え。",
-      "source": "https://ja.wikiquote.org/wiki/二宮尊徳",
-      "uncertain": true,
-      "tags": [
-        "継続",
-        "努力",
-        "成長"
-      ]
-    },
-    {
       "id": "hugo-future-names",
       "text": "未来は多くの名を持つ。弱き者には「不可能」、臆病者には「未知」。しかし勇気ある者には「理想」である。",
       "original": "The future has several names. For the weak, it is the impossible; for the fainthearted, it is the unknown; for the thoughtful and valiant, it is the ideal.",
