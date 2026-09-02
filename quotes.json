@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T10:32:28+09:00",
+  "updatedAt": "2026-09-02T09:45:45+09:00",
   "quotes": [
+    {
+      "id": "hugo-future-names",
+      "text": "未来は多くの名を持つ。弱き者には「不可能」、臆病者には「未知」。しかし勇気ある者には「理想」である。",
+      "original": "The future has several names. For the weak, it is the impossible; for the fainthearted, it is the unknown; for the thoughtful and valiant, it is the ideal.",
+      "author": "ヴィクトル・ユゴー",
+      "authorBio": "19世紀フランスの文豪。『レ・ミゼラブル』『ノートルダム・ド・パリ』を著し、亡命生活の中でも自由と正義を訴え続けた。",
+      "background": "講演で語ったと伝えられる言葉。未来をどう名づけるかは、その人の生き方が決めるという彼のロマン主義精神を表す。",
+      "source": "https://en.wikiquote.org/wiki/Victor_Hugo",
+      "uncertain": true,
+      "tags": [
+        "未来",
+        "理想",
+        "勇気"
+      ],
+      "addedAt": "2026-09-02",
+      "featuredDate": "2026-09-02"
+    },
     {
       "id": "sontoku-small",
       "text": "小を積みて大と為す。",
