@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T09:45:45+09:00",
+  "updatedAt": "2026-09-03T09:54:13+09:00",
   "quotes": [
+    {
+      "id": "dickens-no-tomorrow",
+      "text": "今日できることを、決して明日に延ばすな。先延ばしは時間泥棒である。",
+      "original": "Never do tomorrow what you can do today. Procrastination is the thief of time.",
+      "author": "チャールズ・ディケンズ",
+      "authorBio": "19世紀イギリスの国民的作家。『クリスマス・キャロル』『二都物語』など、庶民の哀歓を描いた作品で愛される。",
+      "background": "『デイヴィッド・コパフィールド』でミコーバー氏が語る処世訓。自身も貧困から身を起こしたディケンズらしい実践的な教え。",
+      "source": "https://en.wikiquote.org/wiki/Charles_Dickens",
+      "uncertain": false,
+      "tags": [
+        "行動",
+        "時間",
+        "習慣"
+      ],
+      "addedAt": "2026-09-03",
+      "featuredDate": "2026-09-03"
+    },
     {
       "id": "hugo-future-names",
       "text": "未来は多くの名を持つ。弱き者には「不可能」、臆病者には「未知」。しかし勇気ある者には「理想」である。",
