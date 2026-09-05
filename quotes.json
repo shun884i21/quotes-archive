@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T09:37:59+09:00",
+  "updatedAt": "2026-09-05T09:33:20+09:00",
   "quotes": [
+    {
+      "id": "chekhov-knowledge",
+      "text": "知識は、実践に移されてこそ価値がある。",
+      "original": "Knowledge is of no value unless you put it into practice.",
+      "author": "アントン・チェーホフ",
+      "authorBio": "19世紀ロシアの劇作家・短編の名手。『かもめ』『桜の園』を残し、医師としても働きながら執筆を続けた。",
+      "background": "チェーホフの言葉として広く引用される。医業と文学を両立させ、行動の人であった彼の姿勢と重なる。",
+      "source": "https://en.wikiquote.org/wiki/Anton_Chekhov",
+      "uncertain": true,
+      "tags": [
+        "学び",
+        "実践",
+        "行動"
+      ],
+      "addedAt": "2026-09-05",
+      "featuredDate": "2026-09-05"
+    },
     {
       "id": "dostoevsky-happiness",
       "text": "人間が不幸なのは、自分が幸福であることを知らないからだ。ただそれだけの理由なのだ。",
