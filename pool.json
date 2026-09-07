@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "schweitzer-happiness",
-      "text": "成功が幸福の鍵なのではない。幸福こそが成功の鍵である。",
-      "original": "Success is not the key to happiness. Happiness is the key to success.",
-      "author": "アルベルト・シュバイツァー",
-      "authorBio": "神学者・哲学者・医師・オルガン奏者。アフリカのランバレネで医療活動に生涯を捧げ、ノーベル平和賞を受賞した。",
-      "background": "シュバイツァーの言葉として広く伝わる。愛する仕事に打ち込む幸福が結果を生むという、彼の生き方そのもの。",
-      "source": "https://en.wikiquote.org/wiki/Albert_Schweitzer",
-      "uncertain": true,
-      "tags": [
-        "幸福",
-        "成功",
-        "情熱"
-      ]
-    },
-    {
       "id": "chaplin-looking-down",
       "text": "下を向いていたら、虹を見つけることは決してできない。",
       "original": "You'll never find a rainbow if you're looking down.",
