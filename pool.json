@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "chaplin-looking-down",
-      "text": "下を向いていたら、虹を見つけることは決してできない。",
-      "original": "You'll never find a rainbow if you're looking down.",
-      "author": "チャーリー・チャップリン",
-      "authorBio": "20世紀の喜劇王。『モダン・タイムス』『独裁者』などで笑いと風刺を融合させ、映画史に不滅の足跡を残した。",
-      "background": "チャップリンの言葉として広く親しまれる。貧しい幼少期から世界的スターへ、前を向き続けた人生を映す。",
-      "source": "https://en.wikiquote.org/wiki/Charlie_Chaplin",
-      "uncertain": true,
-      "tags": [
-        "前向き",
-        "希望",
-        "人生"
-      ]
-    },
-    {
       "id": "kant-sapere-aude",
       "text": "あえて賢くあれ。自分自身の理性を使う勇気を持て。",
       "original": "Sapere aude! Have courage to use your own understanding!",
