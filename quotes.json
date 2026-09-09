@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T09:51:49+09:00",
+  "updatedAt": "2026-09-09T09:58:14+09:00",
   "quotes": [
+    {
+      "id": "kant-sapere-aude",
+      "text": "あえて賢くあれ。自分自身の理性を使う勇気を持て。",
+      "original": "Sapere aude! Have courage to use your own understanding!",
+      "author": "イマヌエル・カント",
+      "authorBio": "18世紀ドイツの哲学者。『純粋理性批判』で近代哲学に革命を起こし、規則正しい生活と散歩でも知られた。",
+      "background": "論文「啓蒙とは何か」(1784)の中心句。他人任せにせず自分の頭で考えることが、人間の成熟だと説いた。",
+      "source": "https://en.wikiquote.org/wiki/Immanuel_Kant",
+      "uncertain": false,
+      "tags": [
+        "理性",
+        "勇気",
+        "自立"
+      ],
+      "addedAt": "2026-09-09",
+      "featuredDate": "2026-09-09"
+    },
     {
       "id": "chaplin-looking-down",
       "text": "下を向いていたら、虹を見つけることは決してできない。",
