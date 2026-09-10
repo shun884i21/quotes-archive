@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T09:58:14+09:00",
+  "updatedAt": "2026-09-10T09:45:16+09:00",
   "quotes": [
+    {
+      "id": "descartes-divide",
+      "text": "困難は分割せよ。",
+      "original": "Divide each of the difficulties under examination into as many parts as possible, and as might be necessary for its adequate solution.",
+      "author": "ルネ・デカルト",
+      "authorBio": "17世紀フランスの哲学者・数学者。「われ思う、ゆえにわれあり」で知られ、近代合理主義の父と呼ばれる。",
+      "background": "『方法序説』で示した思考の規則のひとつ。大きな問題も小さく分ければ解けるという、時代を超えて通用する知恵。",
+      "source": "https://en.wikiquote.org/wiki/René_Descartes",
+      "uncertain": false,
+      "tags": [
+        "問題解決",
+        "知恵",
+        "仕事"
+      ],
+      "addedAt": "2026-09-10",
+      "featuredDate": "2026-09-10"
+    },
     {
       "id": "kant-sapere-aude",
       "text": "あえて賢くあれ。自分自身の理性を使う勇気を持て。",
