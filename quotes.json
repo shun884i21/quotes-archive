@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-10T09:45:16+09:00",
+  "updatedAt": "2026-09-11T09:46:04+09:00",
   "quotes": [
+    {
+      "id": "pascal-thinking-reed",
+      "text": "人間はひとくきの葦にすぎない。自然のなかで最も弱いものである。だが、それは考える葦である。",
+      "original": "Man is but a reed, the most feeble thing in nature; but he is a thinking reed.",
+      "author": "ブレーズ・パスカル",
+      "authorBio": "17世紀フランスの数学者・物理学者・思想家。確率論や圧力の原理に貢献し、遺稿集『パンセ』を残した。",
+      "background": "『パンセ』の最も有名な断章。人間の弱さと、考えることによる偉大さを同時に見つめた言葉。",
+      "source": "https://en.wikiquote.org/wiki/Blaise_Pascal",
+      "uncertain": false,
+      "tags": [
+        "思考",
+        "人間",
+        "強さ"
+      ],
+      "addedAt": "2026-09-11",
+      "featuredDate": "2026-09-11"
+    },
     {
       "id": "descartes-divide",
       "text": "困難は分割せよ。",
