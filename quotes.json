@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-13T09:32:53+09:00",
+  "updatedAt": "2026-09-14T09:36:20+09:00",
   "quotes": [
+    {
+      "id": "earhart-do-it",
+      "text": "最も効果的なやり方は、実際にやってみることだ。",
+      "original": "The most effective way to do it, is to do it.",
+      "author": "アメリア・イアハート",
+      "authorBio": "女性として初めて大西洋単独横断飛行を成し遂げたアメリカの飛行士。世界一周飛行に挑み、太平洋上で消息を絶った。",
+      "background": "イアハートの言葉として広く引用される。「女性には無理」と言われた時代に、飛ぶことで道を切り拓いた彼女の流儀。",
+      "source": "https://en.wikiquote.org/wiki/Amelia_Earhart",
+      "uncertain": true,
+      "tags": [
+        "行動",
+        "挑戦",
+        "勇気"
+      ],
+      "addedAt": "2026-09-14",
+      "featuredDate": "2026-09-14"
+    },
     {
       "id": "jordan-failure",
       "text": "人生で何度も何度も失敗してきた。それこそが、私が成功する理由だ。",
