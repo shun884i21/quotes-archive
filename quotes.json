@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-14T09:36:20+09:00",
+  "updatedAt": "2026-09-15T10:07:22+09:00",
   "quotes": [
+    {
+      "id": "hopper-always-done",
+      "text": "いちばん危険な言葉は「今までずっとこうやってきた」だ。",
+      "original": "The most dangerous phrase in the language is, 'We've always done it this way.'",
+      "author": "グレース・ホッパー",
+      "authorBio": "アメリカ海軍准将にして計算機科学の先駆者。プログラミング言語COBOLの開発を主導し、「デバッグ」の逸話でも知られる。",
+      "background": "インタビューで繰り返し語った信条。前例踏襲こそ進歩の敵だとして、生涯新しいやり方に挑み続けた。",
+      "source": "https://en.wikiquote.org/wiki/Grace_Hopper",
+      "uncertain": false,
+      "tags": [
+        "変化",
+        "挑戦",
+        "仕事"
+      ],
+      "addedAt": "2026-09-15",
+      "featuredDate": "2026-09-15"
+    },
     {
       "id": "earhart-do-it",
       "text": "最も効果的なやり方は、実際にやってみることだ。",
