@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T10:07:22+09:00",
+  "updatedAt": "2026-09-16T09:58:23+09:00",
   "quotes": [
+    {
+      "id": "wangyangming-unity",
+      "text": "知は行の始めなり、行は知の成るなり。",
+      "original": "知者行之始、行者知之成。",
+      "author": "王陽明",
+      "authorBio": "明代中国の思想家・軍人。「知行合一」を唱える陽明学を開き、日本の幕末の志士たちにも大きな影響を与えた。",
+      "background": "『伝習録』の一節。知ることは行動の始まりであり、行動して初めて知は完成するという実践哲学の核心。",
+      "source": "https://ja.wikiquote.org/wiki/王陽明",
+      "uncertain": false,
+      "tags": [
+        "実践",
+        "学び",
+        "行動"
+      ],
+      "addedAt": "2026-09-16",
+      "featuredDate": "2026-09-16"
+    },
     {
       "id": "hopper-always-done",
       "text": "いちばん危険な言葉は「今までずっとこうやってきた」だ。",

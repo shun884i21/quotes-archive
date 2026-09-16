@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "wangyangming-unity",
-      "text": "知は行の始めなり、行は知の成るなり。",
-      "original": "知者行之始、行者知之成。",
-      "author": "王陽明",
-      "authorBio": "明代中国の思想家・軍人。「知行合一」を唱える陽明学を開き、日本の幕末の志士たちにも大きな影響を与えた。",
-      "background": "『伝習録』の一節。知ることは行動の始まりであり、行動して初めて知は完成するという実践哲学の核心。",
-      "source": "https://ja.wikiquote.org/wiki/王陽明",
-      "uncertain": false,
-      "tags": [
-        "実践",
-        "学び",
-        "行動"
-      ]
-    },
-    {
       "id": "hippocrates-ars-longa",
       "text": "人生は短く、術の道は長い。",
       "original": "Ars longa, vita brevis.",
