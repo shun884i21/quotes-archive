@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "hippocrates-ars-longa",
-      "text": "人生は短く、術の道は長い。",
-      "original": "Ars longa, vita brevis.",
-      "author": "ヒポクラテス",
-      "authorBio": "古代ギリシアの医師。迷信から医学を切り離し、観察と倫理に基づく医療を確立した「医学の父」。",
-      "background": "『箴言』の冒頭の言葉。学ぶべき道は長く人生は短いからこそ、今すぐ学び始めよという意味で読み継がれる。",
-      "source": "https://en.wikiquote.org/wiki/Hippocrates",
-      "uncertain": false,
-      "tags": [
-        "時間",
-        "学び",
-        "継続"
-      ]
-    },
-    {
       "id": "yamamoto-yattemise",
       "text": "やってみせ、言って聞かせて、させてみて、ほめてやらねば、人は動かじ。",
       "original": "",
