@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "okakura-change",
-      "text": "変化こそが、唯一の永遠である。",
-      "original": "Change is the only Eternal.",
-      "author": "岡倉天心",
-      "authorBio": "明治の美術指導者・思想家。東京美術学校の設立に関わり、英文『茶の本』で東洋の美意識を世界に伝えた。",
-      "background": "『茶の本』の一節。すべては移ろうからこそ美しいという東洋的な世界観を、簡潔な英語で示した。",
-      "source": "https://ja.wikiquote.org/wiki/岡倉天心",
-      "uncertain": false,
-      "tags": [
-        "変化",
-        "永遠",
-        "知恵"
-      ]
-    },
-    {
       "id": "kukai-hito",
       "text": "物の興廃は必ず人に由る。人の昇沈は定んで道にあり。",
       "original": "",
