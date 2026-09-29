@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T10:20:48+09:00",
+  "updatedAt": "2026-09-29T11:26:56+09:00",
   "quotes": [
+    {
+      "id": "uemura-adventure",
+      "text": "冒険とは、生きて帰ることである。",
+      "original": "",
+      "author": "植村直己",
+      "authorBio": "世界初の五大陸最高峰登頂を成し遂げた冒険家。犬ぞり単独行で北極点にも到達。厳冬期マッキンリーで消息を絶った。",
+      "background": "著書などで語った冒険観。無謀と冒険を区別し、周到な準備と生還への執念こそ冒険の本質だと説いた。",
+      "source": "https://ja.wikiquote.org/wiki/植村直己",
+      "uncertain": false,
+      "tags": [
+        "冒険",
+        "挑戦",
+        "生きる"
+      ],
+      "addedAt": "2026-09-29",
+      "featuredDate": "2026-09-29"
+    },
     {
       "id": "yukawa-ippo",
       "text": "一日生きることは、一歩進むことでありたい。",
