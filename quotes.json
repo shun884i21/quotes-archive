@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T11:26:56+09:00",
+  "updatedAt": "2026-09-30T10:46:58+09:00",
   "quotes": [
+    {
+      "id": "ando-not-too-late",
+      "text": "人生に遅すぎるということはない。",
+      "original": "",
+      "author": "安藤百福",
+      "authorBio": "日清食品の創業者。48歳で世界初の即席麺「チキンラーメン」を、61歳で「カップヌードル」を生んだ発明起業家。",
+      "background": "事業の失敗で全財産を失った後、自宅裏の小屋で即席麺を開発した経験から語った言葉。何歳からでも始められる。",
+      "source": "https://ja.wikiquote.org/wiki/安藤百福",
+      "uncertain": false,
+      "tags": [
+        "挑戦",
+        "年齢",
+        "再起"
+      ],
+      "addedAt": "2026-09-30",
+      "featuredDate": "2026-09-30"
+    },
     {
       "id": "uemura-adventure",
       "text": "冒険とは、生きて帰ることである。",
