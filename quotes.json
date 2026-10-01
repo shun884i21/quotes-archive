@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T10:46:58+09:00",
+  "updatedAt": "2026-10-01T10:44:21+09:00",
   "quotes": [
+    {
+      "id": "katsu-criticism",
+      "text": "行いは己のもの、批判は他人のもの、知ったことではない。",
+      "original": "",
+      "author": "勝海舟",
+      "authorBio": "幕末から明治の政治家。咸臨丸で太平洋を渡り、西郷隆盛との会談で江戸無血開城を実現させた。",
+      "background": "晩年の談話録に伝わる処世観。やるべきことをやったら、他人の毀誉褒貶は気にしないという胆力を示す。",
+      "source": "https://ja.wikiquote.org/wiki/勝海舟",
+      "uncertain": true,
+      "tags": [
+        "信念",
+        "批判",
+        "自分軸"
+      ],
+      "addedAt": "2026-10-01",
+      "featuredDate": "2026-10-01"
+    },
     {
       "id": "ando-not-too-late",
       "text": "人生に遅すぎるということはない。",
