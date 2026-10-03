@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "shotoku-wa",
-      "text": "一に曰く、和を以て貴しとし、忤うことなきを宗とせよ。",
-      "original": "",
-      "author": "聖徳太子",
-      "authorBio": "飛鳥時代の皇族・政治家。推古天皇の摂政を務め、仏教を篤く信じて寺院建立や遣隋使の派遣を進め、国家の基礎づくりに尽くしたと伝わる。",
-      "background": "『日本書紀』が伝える十七条憲法の第一条。実際の作者や成立時期には学説上の議論があるが、争わず調和を重んじる心を説く言葉として広く知られる。",
-      "source": "https://ja.wikipedia.org/wiki/聖徳太子",
-      "uncertain": true,
-      "tags": [
-        "人間関係",
-        "協力",
-        "心構え"
-      ]
-    },
-    {
       "id": "archimedes-lever",
       "text": "私に立つ場所を与えよ。そうすれば地球を動かしてみせよう。",
       "original": "Give me the place to stand, and I shall move the earth.",
