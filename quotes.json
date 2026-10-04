@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T10:38:24+09:00",
+  "updatedAt": "2026-10-04T11:19:43+09:00",
   "quotes": [
+    {
+      "id": "archimedes-lever",
+      "text": "私に立つ場所を与えよ。そうすれば地球を動かしてみせよう。",
+      "original": "Give me the place to stand, and I shall move the earth.",
+      "author": "アルキメデス",
+      "authorBio": "古代ギリシャの数学者・物理学者。てこの原理や浮力の原理(アルキメデスの原理)を発見し、科学に数学的な実証の手法を取り入れた。",
+      "background": "てこの原理を示した際に語ったと伝わる言葉。4世紀の数学者パップスの著作に記録が残るが、本人の死から数百年後の伝承である（「十分に長いてこがあれば」という形は後世の言い換え）。自らの発見への確信を表す。",
+      "source": "https://en.wikiquote.org/wiki/Archimedes",
+      "uncertain": true,
+      "tags": [
+        "知恵",
+        "自己信頼",
+        "挑戦"
+      ],
+      "addedAt": "2026-10-04",
+      "featuredDate": "2026-10-04"
+    },
     {
       "id": "shotoku-wa",
       "text": "一に曰く、和を以て貴しとし、忤うことなきを宗とせよ。",
