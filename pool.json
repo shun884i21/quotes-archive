@@ -1,20 +1,6 @@
 {
   "quotes": [
     {
-      "id": "montaigne-art-of-living",
-      "text": "生きること、それこそが私の仕事であり技術である。",
-      "original": "Mon métier et mon art, c'est vivre.",
-      "author": "ミシェル・ド・モンテーニュ",
-      "authorBio": "16世紀フランスの思想家・モラリスト。随想録『エセー』で自己を赤裸々に観察し、近代的な自己探求の文章スタイルを確立した。",
-      "background": "『エセー』第2巻第6章「練習について」にある言葉。生きることそのものを自分の本業と捉える、彼の人生観を表す。",
-      "source": "https://en.wikiquote.org/wiki/Michel_de_Montaigne",
-      "uncertain": false,
-      "tags": [
-        "人生",
-        "心構え"
-      ]
-    },
-    {
       "id": "saicho-ichigu",
       "text": "径寸十枚、是れ国宝にあらず。一隅を照らす、此れ則ち国宝なり。",
       "original": "",
