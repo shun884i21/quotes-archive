@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "saicho-ichigu",
-      "text": "径寸十枚、是れ国宝にあらず。一隅を照らす、此れ則ち国宝なり。",
-      "original": "",
-      "author": "最澄",
-      "authorBio": "平安時代初期の僧。日本天台宗の開祖で、比叡山に延暦寺を開いた。804年に遣唐使船で唐に渡って天台教学を学び、帰国後は多くの弟子を育てた。",
-      "background": "僧の育成規則『山家学生式』(818年)の一節。最澄が「古人言く」として引いた言葉で、もとは『史記』の故事にさかのぼる（「照千一隅」と読む説もある）。持ち場で力を尽くす人こそ国の宝という教え。",
-      "source": "https://ja.wikipedia.org/wiki/最澄",
-      "uncertain": false,
-      "tags": [
-        "貢献",
-        "仕事",
-        "誠実"
-      ]
-    },
-    {
       "id": "faraday-wonderful",
       "text": "自然の法則にかなっているならば、どんなに素晴らしいことでも、真実でないということはない。",
       "original": "Nothing is too wonderful to be true, if it be consistent with the laws of nature.",
