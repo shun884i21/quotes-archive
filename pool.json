@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "faraday-wonderful",
-      "text": "自然の法則にかなっているならば、どんなに素晴らしいことでも、真実でないということはない。",
-      "original": "Nothing is too wonderful to be true, if it be consistent with the laws of nature.",
-      "author": "マイケル・ファラデー",
-      "authorBio": "19世紀イギリスの物理学者・化学者。独学で学び、電磁誘導の法則を発見して発電機の原理を確立し、電気技術の基礎を築いた。",
-      "background": "1849年3月19日の実験日誌の一節。重力と電気の関係という大胆な着想を「すべては夢だ。それでも実験で確かめよう」と記した直後の言葉。突飛に思える考えも頭から否定せず、実験で確かめる科学者の姿勢を示す。",
-      "source": "https://en.wikiquote.org/wiki/Michael_Faraday",
-      "uncertain": false,
-      "tags": [
-        "知恵",
-        "好奇心",
-        "学び"
-      ]
-    },
-    {
       "id": "spinoza-meditation-on-life",
       "text": "自由な人間は死について考えることが最も少なく、その知恵は死ではなく生について省察することにある。",
       "original": "Homo liber de nulla re minus quam de morte cogitat, et ejus sapientia non mortis sed vitae meditatio est.",
