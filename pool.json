@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "shinran-hongan",
-      "text": "本願力にあひぬれば むなしくすぐるひとぞなき",
-      "original": "",
-      "author": "親鸞",
-      "authorBio": "鎌倉時代の僧。浄土真宗の宗祖で、法然に学んだのち、阿弥陀仏の本願を信じるすべての人が等しく救われるという教えを説いた。",
-      "background": "76歳ごろ(1248年頃)に著した『高僧和讃』の一首の前半。天親菩薩『浄土論』の一節を和語でうたったもので、阿弥陀仏の本願の力に出会った人は、誰ひとりむなしく人生を過ごすことはないという意味。",
-      "source": "https://ja.wikipedia.org/wiki/三帖和讃",
-      "uncertain": false,
-      "tags": [
-        "希望",
-        "人生",
-        "前向き"
-      ]
-    },
-    {
       "id": "fleming-extraordinary",
       "text": "異常な現象や出来事を、決して見過ごしてはならない。それは何にもつながらない空騒ぎかもしれないし、実際たいていはそうだ。だが、運命が与えてくれた、大きな前進への手がかりかもしれないのだ。",
       "original": "Never neglect an extraordinary appearance or happening. It may be — usually is, in fact — a false alarm which leads to nothing, but it may on the other hand be the clue provided by fate to lead you to some important advance.",
