@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-12T10:59:30+09:00",
+  "updatedAt": "2026-10-13T12:18:41+09:00",
   "quotes": [
+    {
+      "id": "bohr-paradox",
+      "text": "すばらしいことに、我々は矛盾に出会った。これで前進できる望みが出てきたぞ。",
+      "original": "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+      "author": "ニールス・ボーア",
+      "authorBio": "デンマークの物理学者。原子構造の量子論的モデルを提唱して量子力学の確立に貢献し、ノーベル物理学賞を受賞した。",
+      "background": "本人の著作ではなく、1957年のニューヨーク・タイムズ紙の記事や、ルース・ムーアによる伝記(1966年)が伝える言葉。実験が予想外の展開を見せたときに語ったとされ、困難を前進の糸口と捉える姿勢を示す。",
+      "source": "https://en.wikiquote.org/wiki/Niels_Bohr",
+      "uncertain": true,
+      "tags": [
+        "気づき",
+        "学び",
+        "前向き"
+      ],
+      "addedAt": "2026-10-13",
+      "featuredDate": "2026-10-13"
+    },
     {
       "id": "zeami-shoshin",
       "text": "是非の初心忘るべからず。時々の初心忘るべからず。老後の初心忘るべからず。",
