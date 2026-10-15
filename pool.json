@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "kenko-hitoya",
-      "text": "初心の人、二つの矢を持つことなかれ。後の矢を頼みて、はじめの矢に等閑の心あり。",
-      "original": "",
-      "author": "吉田兼好",
-      "authorBio": "鎌倉時代末期の歌人・随筆家。和歌四天王の一人に数えられ、出家後に随筆集『徒然草』を著して無常観と暮らしの知恵を軽妙な筆致で記した。",
-      "background": "『徒然草』第九十二段で、弓の師が初心者の弟子に語った言葉として記される。次があると思う心が、今この一瞬への集中を失わせるという戒め。",
-      "source": "https://ja.wikiquote.org/wiki/吉田兼好",
-      "uncertain": false,
-      "tags": [
-        "心構え",
-        "行動",
-        "準備"
-      ]
-    },
-    {
       "id": "lovelace-weaves",
       "text": "ジャカード織機が花や葉の模様を織り出すように、解析機関は代数の模様を織り出すのだと言えるだろう。",
       "original": "We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
