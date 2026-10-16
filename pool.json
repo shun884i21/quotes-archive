@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "lovelace-weaves",
-      "text": "ジャカード織機が花や葉の模様を織り出すように、解析機関は代数の模様を織り出すのだと言えるだろう。",
-      "original": "We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
-      "author": "エイダ・ラブレス",
-      "authorBio": "19世紀イギリスの数学者。チャールズ・バベッジの解析機関に関する注釈を著し、世界初のコンピュータプログラムを書いたとされる。",
-      "background": "1843年、バベッジの解析機関を紹介する論文を英訳した際に付けた「訳者注」(注A)の一節。解析機関が数だけでなく記号も扱える汎用的な機械だと見抜いた。一方で注Gでは「機械が自ら何かを創り出すことはない」とも述べている。",
-      "source": "https://en.wikiquote.org/wiki/Ada_Lovelace",
-      "uncertain": false,
-      "tags": [
-        "知恵",
-        "芸術",
-        "本質"
-      ]
-    },
-    {
       "id": "russell-creative-impulses",
       "text": "創造への意欲が最も大きな部分を占め、所有への欲求が最も小さい人生こそ、最良の人生である。",
       "original": "The best life is the one in which the creative impulses play the largest part and the possessive impulses the smallest.",
