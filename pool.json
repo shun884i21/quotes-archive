@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "turing-short-distance",
-      "text": "私たちに見通せるのはほんの少し先までだが、そこにはやるべきことがたくさんあるのが見える。",
-      "original": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
-      "author": "アラン・チューリング",
-      "authorBio": "イギリスの数学者。「チューリングマシン」の概念を考案してコンピュータ科学の基礎を築き、暗号解読でも大戦の勝利に貢献した。",
-      "background": "1950年発表の論文「計算機械と知性」の一節。人工知能の可能性を論じる中で、先が見えなくても今できることに取り組む姿勢を示した。",
-      "source": "https://en.wikiquote.org/wiki/Alan_Turing",
-      "uncertain": false,
-      "tags": [
-        "知恵",
-        "未来",
-        "行動"
-      ]
-    },
-    {
       "id": "heraclitus-character-destiny",
       "text": "人の性格こそが、その人の運命である。",
       "original": "ἦθος ἀνθρώπῳ δαίμων.",
