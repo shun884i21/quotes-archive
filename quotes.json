@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-20T10:27:09+09:00",
+  "updatedAt": "2026-10-21T10:11:19+09:00",
   "quotes": [
+    {
+      "id": "kenshin-kokoro",
+      "text": "心に物なき時は心広く体泰なり。",
+      "original": "",
+      "author": "上杉謙信",
+      "authorBio": "越後の戦国大名。軍神・毘沙門天を篤く信仰し、私欲のない清廉な人柄で知られ、越後を統一して関東や北陸にも勢力を広げた名将。",
+      "background": "謙信の家訓と伝わる十六ヶ条(「宝在心」)の第一条。私欲がなければ心身ともにゆったり構えられるという教えで、江戸期の編纂史料に載る伝承であり原本は確認されていない。",
+      "source": "https://ja.wikiquote.org/wiki/上杉謙信",
+      "uncertain": true,
+      "tags": [
+        "心構え",
+        "強さ",
+        "自己信頼"
+      ],
+      "addedAt": "2026-10-21",
+      "featuredDate": "2026-10-21"
+    },
     {
       "id": "heraclitus-character-destiny",
       "text": "人の性格こそが、その人の運命である。",
