@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-25T09:43:31+09:00",
+  "updatedAt": "2026-10-26T09:56:00+09:00",
   "quotes": [
+    {
+      "id": "tchaikovsky-depths-of-soul",
+      "text": "人の心を動かし、触れる音楽とは、作曲家の魂の奥底から、インスピレーションに心揺さぶられて流れ出るものだけである。",
+      "original": "The only music capable of moving and touching us is that which flows from the depths of a composer's soul when he is stirred by inspiration.",
+      "author": "ピョートル・チャイコフスキー",
+      "authorBio": "19世紀ロシアの作曲家。『白鳥の湖』『くるみ割り人形』などで知られ、ロマン派を代表する豊かな旋律美を確立した。",
+      "background": "支援者フォン・メック夫人に宛てた1878年3月の手紙の一節。作曲を冷たい頭脳作業と思わないでほしいと書いた直後の言葉だが、同じ手紙で、霊感を待たず毎日仕事を続けるべきだとも述べている。",
+      "source": "https://en.wikiquote.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+      "uncertain": false,
+      "tags": [
+        "情熱",
+        "芸術",
+        "仕事"
+      ],
+      "addedAt": "2026-10-26",
+      "featuredDate": "2026-10-26"
+    },
     {
       "id": "bell-focus",
       "text": "今取り組んでいることに、すべての思考を集中させなさい。太陽の光も、一点に集めなければ物を燃やすことはない。",
