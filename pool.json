@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "genpaku-yojo",
-      "text": "昨日の非は恨悔すべからず。明日の是は慮念すべからず。",
-      "original": "",
-      "author": "杉田玄白",
-      "authorBio": "江戸時代中期の蘭方医。前野良沢らとともに『ターヘル・アナトミア』を翻訳し、日本初の西洋解剖学書『解体新書』を刊行した。",
-      "background": "享和元年(1801年)、孫たちに長寿を祝ってもらった礼に書き、版に起こして配った健康の心得『養生七不可』の第一・第二条。過ぎた失敗をくよくよ悔やまず、まだ来ない明日を思い悩まないことが養生になると説く。",
-      "source": "https://ja.wikipedia.org/wiki/杉田玄白",
-      "uncertain": false,
-      "tags": [
-        "前向き",
-        "心構え",
-        "後悔"
-      ]
-    },
-    {
       "id": "wright-knowledge-skill",
       "text": "モーターがなくても飛ぶことはできる。しかし、知識と技術がなければ飛ぶことはできない。",
       "original": "It is possible to fly without motors, but not without knowledge and skill.",
