@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-27T10:46:26+09:00",
+  "updatedAt": "2026-10-28T10:58:35+09:00",
   "quotes": [
+    {
+      "id": "wright-knowledge-skill",
+      "text": "モーターがなくても飛ぶことはできる。しかし、知識と技術がなければ飛ぶことはできない。",
+      "original": "It is possible to fly without motors, but not without knowledge and skill.",
+      "author": "ウィルバー・ライト",
+      "authorBio": "アメリカの発明家。弟オーヴィルとともに独自の飛行機を開発し、1903年に世界初の有人動力飛行を成功させるまで研究を重ねた。",
+      "background": "1900年5月13日、飛行研究の先輩オクターヴ・シャニュートに送った手紙の一節。技術と理解の積み重ねを重んじる姿勢を表す。",
+      "source": "https://en.wikiquote.org/wiki/Wilbur_Wright",
+      "uncertain": false,
+      "tags": [
+        "知恵",
+        "努力",
+        "挑戦"
+      ],
+      "addedAt": "2026-10-28",
+      "featuredDate": "2026-10-28"
+    },
     {
       "id": "genpaku-yojo",
       "text": "昨日の非は恨悔すべからず。明日の是は慮念すべからず。",
