@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "issa-yasegaeru",
-      "text": "やせ蛙 負けるな一茶 これにあり",
-      "original": "",
-      "author": "小林一茶",
-      "authorBio": "江戸時代後期を代表する俳人。信濃の農家に生まれ、不運な半生を送りながらも庶民の暮らしや小さな生き物への共感を込めた句を数多く残した。",
-      "background": "痩せた小さな蛙が体の大きな蛙と組み合う様子を見て詠んだ句。弱い立場の者を一茶自身が本気で応援する気持ちを表している。",
-      "source": "https://ja.wikipedia.org/wiki/小林一茶",
-      "uncertain": false,
-      "tags": [
-        "勇気",
-        "強さ",
-        "前向き"
-      ]
-    },
-    {
       "id": "armstrong-small-step",
       "text": "これは一人の人間にとっては小さな一歩だが、人類にとっては大きな飛躍だ。",
       "original": "That's one small step for man, one giant leap for mankind.",
