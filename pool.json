@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "armstrong-small-step",
-      "text": "これは一人の人間にとっては小さな一歩だが、人類にとっては大きな飛躍だ。",
-      "original": "That's one small step for man, one giant leap for mankind.",
-      "author": "ニール・アームストロング",
-      "authorBio": "アメリカの宇宙飛行士。元テストパイロットで、1969年のアポロ11号で月に着陸し、人類史上初めて月面に第一歩を記した。",
-      "background": "1969年7月20日、月面に降り立った瞬間に地球へ向けて発した言葉。一人の行動が人類全体の前進になるという思いを表す。",
-      "source": "https://en.wikiquote.org/wiki/Neil_Armstrong",
-      "uncertain": false,
-      "tags": [
-        "挑戦",
-        "人生",
-        "未来"
-      ]
-    },
-    {
       "id": "shaw-reasonable-man-adapts",
       "text": "分別のある人間は自分を世界に合わせる。分別のない人間は、世界を自分に合わせようとし続ける。だから、あらゆる進歩は分別のない人間にかかっている。",
       "original": "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
