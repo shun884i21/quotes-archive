@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "jigoro-seiryoku",
-      "text": "精力善用、自他共栄。",
-      "original": "",
-      "author": "嘉納治五郎",
-      "authorBio": "明治期の教育者・体育家。古流柔術をもとに柔道を創始して講道館を設立し、日本初の国際オリンピック委員会(IOC)委員としても活躍した。",
-      "background": "柔道の根本理念として嘉納自身が示した言葉。心身の力を目的に応じて最も効果的に働かせ、自分も他人も共に栄えることを目指す教え。",
-      "source": "https://ja.wikipedia.org/wiki/嘉納治五郎",
-      "uncertain": false,
-      "tags": [
-        "知恵",
-        "人間関係",
-        "成長"
-      ]
-    },
-    {
       "id": "gagarin-beautiful-planet",
       "text": "宇宙船で地球を周回し、私はこの星がどれほど美しいかを見た。人々よ、この美しさを守り育て、決して壊さないでいよう。",
       "original": "Orbiting Earth in the spaceship, I saw how beautiful our planet is. People, let us preserve and increase this beauty, not destroy it!",
