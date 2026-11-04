@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-03T12:47:57+09:00",
+  "updatedAt": "2026-11-04T11:51:23+09:00",
   "quotes": [
+    {
+      "id": "austen-inner-guide",
+      "text": "私たちは皆、自分の中に、他の誰よりも頼りになる案内役を持っている。それに耳を傾けさえすればよい。",
+      "original": "We have all a better guide in ourselves, if we would attend to it, than any other person can be.",
+      "author": "ジェーン・オースティン",
+      "authorBio": "18世紀末から19世紀初頭のイギリスの小説家。『高慢と偏見』『エマ』など、恋愛と結婚を通じて人間観察の鋭さを発揮した作品で知られる。",
+      "background": "『マンスフィールド・パーク』で、主人公ファニー・プライスが語る言葉。他人に頼りすぎず、自分の心の声に耳を傾けることの大切さを伝えている。",
+      "source": "https://en.wikiquote.org/wiki/Jane_Austen",
+      "uncertain": false,
+      "tags": [
+        "自己信頼",
+        "人生",
+        "心構え"
+      ],
+      "addedAt": "2026-11-04",
+      "featuredDate": "2026-11-04"
+    },
     {
       "id": "gagarin-beautiful-planet",
       "text": "宇宙船で地球を周回し、私はこの星がどれほど美しいかを見た。人々よ、この美しさを守り育て、決して壊さないでいよう。",
