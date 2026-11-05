@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "shiki-yukinofukasa",
-      "text": "いくたびも雪の深さを尋ねけり",
-      "original": "",
-      "author": "正岡子規",
-      "authorBio": "明治期の俳人・歌人。夏目漱石の友人で、結核を患い病床にありながら俳句・短歌の近代化に取り組み、「ホトトギス」などで活躍した。",
-      "background": "病で外の様子を見られなくなった晩年、雪がどれだけ積もったかを何度も家族に尋ねて詠んだ句。病床でも失われない好奇心を表す。",
-      "source": "https://ja.wikiquote.org/wiki/正岡子規",
-      "uncertain": false,
-      "tags": [
-        "好奇心",
-        "前向き",
-        "逆境"
-      ]
-    },
-    {
       "id": "shackleton-optimism",
       "text": "楽観主義こそが、真の精神的勇気である。",
       "original": "Optimism is true moral courage.",
