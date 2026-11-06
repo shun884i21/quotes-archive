@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-05T12:01:15+09:00",
+  "updatedAt": "2026-11-06T12:01:55+09:00",
   "quotes": [
+    {
+      "id": "shackleton-optimism",
+      "text": "楽観主義こそが、真の精神的勇気である。",
+      "original": "Optimism is true moral courage.",
+      "author": "アーネスト・シャクルトン",
+      "authorBio": "アイルランド出身の南極探検家。氷に閉ざされ沈んだ「エンデュアランス号」探検隊を率い、極限状況から隊員全員を生還させた。",
+      "background": "エンデュアランス号の隊員ハッシーが、回想録『サウス・ウィズ・シャクルトン』(1949年)で伝えた言葉（本人の著作には見当たらない）。絶望的な状況でも希望を失わず隊を率いた彼の信条を表す。",
+      "source": "https://en.wikiquote.org/wiki/Ernest_Shackleton",
+      "uncertain": true,
+      "tags": [
+        "逆境",
+        "強さ",
+        "心構え"
+      ],
+      "addedAt": "2026-11-06",
+      "featuredDate": "2026-11-06"
+    },
     {
       "id": "shiki-yukinofukasa",
       "text": "いくたびも雪の深さを尋ねけり",
