@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-09T11:17:54+09:00",
+  "updatedAt": "2026-11-10T13:27:20+09:00",
   "quotes": [
+    {
+      "id": "kafka-life-splendour",
+      "text": "人生の輝きは、いつでも私たち一人ひとりのまわりに、満ちあふれるほどに待ちかまえている――そう考えることは十分にできる。ただそれは覆い隠され、奥深く、目に見えず、遠く離れているのだ。",
+      "original": "It is entirely conceivable that life's splendour forever lies in wait about each one of us in all its fullness, but veiled from view, deep down, invisible, far off.",
+      "author": "フランツ・カフカ",
+      "authorBio": "20世紀初頭、プラハ出身の作家。『変身』や『審判』などの小説で、不安や疎外感を独特の筆致で描き出した。",
+      "background": "1921年10月18日の日記の一節。このあと「それは確かにそこにあり、正しい言葉、正しい名前で呼べばやって来る」と続く。不安や孤独を描くことの多いカフカには珍しい、希望を感じさせる言葉。",
+      "source": "https://en.wikiquote.org/wiki/Franz_Kafka",
+      "uncertain": false,
+      "tags": [
+        "希望",
+        "気づき",
+        "人生"
+      ],
+      "addedAt": "2026-11-10",
+      "featuredDate": "2026-11-10"
+    },
     {
       "id": "hillary-adventure-dream",
       "text": "夢のために冒険する人や、何が見つかるかのためではなく、探し求めること自体の喜びのために探し続ける人は、今もそう珍しくはない。",
