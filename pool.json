@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "misuzu-minnachigatte",
-      "text": "鈴と、小鳥と、それから私、みんなちがって、みんないい。",
-      "original": "",
-      "author": "金子みすゞ",
-      "authorBio": "大正から昭和初期にかけて活動した童謡詩人。山口県に生まれ、やさしい言葉で小さな命への思いやりを描いた詩を多く残し、26歳で早世した。",
-      "background": "童謡詩「私と小鳥と鈴と」の最終連。空を飛べない私、地面を速く走れない小鳥、きれいな音は鳴らせても私ほどたくさんの唄は知らない鈴。一人ひとりの違いをそのまま認め合う詩。",
-      "source": "https://ja.wikipedia.org/wiki/金子みすゞ",
-      "uncertain": false,
-      "tags": [
-        "自分らしさ",
-        "個性",
-        "前向き"
-      ]
-    },
-    {
       "id": "robinson-impact",
       "text": "人生に意味があるのは、他の人生にどれだけ影響を与えられたかによってだけだ。",
       "original": "A life is not important except in the impact it has on other lives.",
