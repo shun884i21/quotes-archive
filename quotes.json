@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-17T13:55:06+09:00",
+  "updatedAt": "2026-11-18T12:59:01+09:00",
   "quotes": [
+    {
+      "id": "wooden-failure-change",
+      "text": "失敗は致命的ではない。だが、変わろうとしないことは致命的になるかもしれない。",
+      "original": "Failure is not fatal but failure to change might be.",
+      "author": "ジョン・ウッデン",
+      "authorBio": "アメリカのバスケットボールコーチ。UCLAを率いて12年間に10度の全米大学選手権優勝を果たした、史上最高の名将の一人。",
+      "background": "著書『ウッデン 人生を通じた観察と省察』(1997年)に記した言葉。失敗そのものより、そこから変わろうとしないことを恐れる考え方を伝える。",
+      "source": "https://en.wikiquote.org/wiki/John_Wooden",
+      "uncertain": false,
+      "tags": [
+        "失敗",
+        "成長",
+        "変化"
+      ],
+      "addedAt": "2026-11-18",
+      "featuredDate": "2026-11-18"
+    },
     {
       "id": "makino-shitone",
       "text": "草を褥に木の根を枕、花と恋して五十年。",
