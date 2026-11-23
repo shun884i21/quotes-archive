@@ -1,21 +1,6 @@
 {
   "quotes": [
     {
-      "id": "sakichi-shoji",
-      "text": "障子を開けてみよ。外は広いぞ。",
-      "original": "",
-      "author": "豊田佐吉",
-      "authorBio": "明治・大正期の発明家。幼い頃から機械いじりを好み、自動織機を発明して豊田自動織機を創業し、のちのトヨタグループの礎を築いた。",
-      "background": "大正7年(1918年)ごろ、上海への事業進出に反対する親族らを説得する際に語ったと伝わる言葉（社史などが伝えるもので、正確な日時は不明）。自ら外へ出て視野を広げることを勧めた。",
-      "source": "https://ja.wikipedia.org/wiki/豊田佐吉",
-      "uncertain": true,
-      "tags": [
-        "挑戦",
-        "未来",
-        "行動"
-      ]
-    },
-    {
       "id": "bryant-journey",
       "text": "疲れていて、やる気が出ず、自分を追い込みたくないときでも、それでもやる。それこそが、実は夢なんだ。それが夢なんだよ。夢とは目的地ではなく、そこへ向かう道のりなんだ。",
       "original": "Those times when you don't feel like working — you're too tired, you don't want to push yourself — but you do it anyway. That is actually the dream. That's the dream. It's not the destination, it's the journey.",
