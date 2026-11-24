@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-23T12:26:30+09:00",
+  "updatedAt": "2026-11-24T15:40:33+09:00",
   "quotes": [
+    {
+      "id": "bryant-journey",
+      "text": "疲れていて、やる気が出ず、自分を追い込みたくないときでも、それでもやる。それこそが、実は夢なんだ。それが夢なんだよ。夢とは目的地ではなく、そこへ向かう道のりなんだ。",
+      "original": "Those times when you don't feel like working — you're too tired, you don't want to push yourself — but you do it anyway. That is actually the dream. That's the dream. It's not the destination, it's the journey.",
+      "author": "コービー・ブライアント",
+      "authorBio": "アメリカのバスケットボール選手。ロサンゼルス・レイカーズで5度のNBA優勝に貢献し、「マンバ・メンタリティ」と呼ばれる徹底した努力の姿勢で知られる。",
+      "background": "2017年12月18日、レイカーズが彼の背番号8と24を永久欠番にした式典でのスピーチの一節。夢とは結果ではなく、日々の努力の積み重ねそのものだと語った。",
+      "source": "https://sports.yahoo.com/kobe-bryant-quotes-nba-hall-112931993.html",
+      "uncertain": false,
+      "tags": [
+        "夢",
+        "努力",
+        "継続"
+      ],
+      "addedAt": "2026-11-24",
+      "featuredDate": "2026-11-24"
+    },
     {
       "id": "sakichi-shoji",
       "text": "障子を開けてみよ。外は広いぞ。",
