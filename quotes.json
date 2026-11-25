@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-24T15:40:33+09:00",
+  "updatedAt": "2026-11-25T14:11:25+09:00",
   "quotes": [
+    {
+      "id": "whitman-contain-multitudes",
+      "text": "私は大きい、たくさんのものを内に抱えているのだ。",
+      "original": "I am large, I contain multitudes.",
+      "author": "ウォルト・ホイットマン",
+      "authorBio": "19世紀アメリカの詩人。詩集『草の葉』で、自由詩の形式と力強い自己表現によってアメリカ文学に新しい地平を開いた。",
+      "background": "代表作『草の葉』中の長詩「自己の歌」第51節の一節。矛盾する面があってもよい、人は誰しも多面的な存在なのだと肯定する言葉。",
+      "source": "https://en.wikiquote.org/wiki/Walt_Whitman",
+      "uncertain": false,
+      "tags": [
+        "自分らしさ",
+        "人生",
+        "心構え"
+      ],
+      "addedAt": "2026-11-25",
+      "featuredDate": "2026-11-25"
+    },
     {
       "id": "bryant-journey",
       "text": "疲れていて、やる気が出ず、自分を追い込みたくないときでも、それでもやる。それこそが、実は夢なんだ。それが夢なんだよ。夢とは目的地ではなく、そこへ向かう道のりなんだ。",
