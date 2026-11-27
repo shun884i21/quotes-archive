@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-11-26T13:38:28+09:00",
+  "updatedAt": "2026-11-27T13:42:41+09:00",
   "quotes": [
+    {
+      "id": "anthony-impossible",
+      "text": "失敗などあり得ない。",
+      "original": "Failure is impossible.",
+      "author": "スーザン・B・アンソニー",
+      "authorBio": "アメリカの女性参政権運動家。50年以上にわたり女性の選挙権獲得運動を率い、合衆国憲法修正第19条の礎を築いた。",
+      "background": "1906年2月、86歳の誕生日に行った最後の公開演説を締めくくった言葉。その1か月後に亡くなった、生涯をかけた運動への確信を示す。",
+      "source": "https://en.wikiquote.org/wiki/Susan_B._Anthony",
+      "uncertain": false,
+      "tags": [
+        "信念",
+        "強さ",
+        "意志"
+      ],
+      "addedAt": "2026-11-27",
+      "featuredDate": "2026-11-27"
+    },
     {
       "id": "toko-shunen",
       "text": "やるべきことが決まったならば、執念をもってとことんまで押しつめよ。問題は能力の限界ではなく、執念の欠如である。",
